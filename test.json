@@ -1,0 +1,66 @@
+{
+    "English": [
+        {
+            "question": "Which of the following is a synonym of 'exacerbate'?",
+            "options": {
+                "a": "Alleviate",
+                "b": "Worsen",
+                "c": "Simplify",
+                "d": "Reduce"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following words is misspelled?",
+            "options": {
+                "a": "Accommodate",
+                "b": "Foreseeable",
+                "c": "Occured",
+                "d": "Recommend"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The phrase 'raining cats and dogs' is an example of:",
+            "options": {
+                "a": "Simile",
+                "b": "Metaphor",
+                "c": "Personification",
+                "d": "Idiom"
+            },
+            "answer": "d"
+        }
+    ],
+    "Wnglish": [
+        {
+            "question": "Which of the following is a synonym of 'exacerbate'?",
+            "options": {
+                "a": "Alleviate",
+                "b": "Worsen",
+                "c": "Simplify",
+                "d": "Reduce"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following words is misspelled?",
+            "options": {
+                "a": "Accommodate",
+                "b": "Foreseeable",
+                "c": "Occured",
+                "d": "Recommend"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The phrase 'raining cats and dogs' is an example of:",
+            "options": {
+                "a": "Simile",
+                "b": "Metaphor",
+                "c": "Personification",
+                "d": "Idiom"
+            },
+            "answer": "d"
+        }
+    ]
+}

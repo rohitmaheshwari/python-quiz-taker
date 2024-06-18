@@ -1,0 +1,1800 @@
+{
+    "Biology": [
+        {
+            "question": "Which of the following is a building block of proteins?",
+            "options": {
+                "a": "Monosaccharides",
+                "b": "Fatty acids",
+                "c": "Amino acids",
+                "d": "Nucleotides"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a polysaccharide?",
+            "options": {
+                "a": "Glucose",
+                "b": "Fructose",
+                "c": "Cellulose",
+                "d": "Sucrose"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which molecule is the main energy currency of the cell?",
+            "options": {
+                "a": "ATP",
+                "b": "NADH",
+                "c": "Glucose",
+                "d": "GTP"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What type of bond links amino acids together in a protein?",
+            "options": {
+                "a": "Ionic bond",
+                "b": "Hydrogen bond",
+                "c": "Peptide bond",
+                "d": "Glycosidic bond"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is NOT a component of nucleotides?",
+            "options": {
+                "a": "Phosphate group",
+                "b": "Pentose sugar",
+                "c": "Amino acid",
+                "d": "Nitrogenous base"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the primary structure of a protein?",
+            "options": {
+                "a": "The sequence of amino acids",
+                "b": "Alpha helices and beta sheets",
+                "c": "The overall 3D shape",
+                "d": "Multiple polypeptide chains"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What kind of macromolecule is cellulose?",
+            "options": {
+                "a": "Protein",
+                "b": "Lipid",
+                "c": "Carbohydrate",
+                "d": "Nucleic acid"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which lipid is a major component of cell membranes?",
+            "options": {
+                "a": "Triglycerides",
+                "b": "Steroids",
+                "c": "Phospholipids",
+                "d": "Waxes"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which type of bond is most important in the secondary structure of proteins?",
+            "options": {
+                "a": "Hydrogen bonds",
+                "b": "Ionic bonds",
+                "c": "Covalent bonds",
+                "d": "Van der Waals interactions"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is NOT a function of proteins?",
+            "options": {
+                "a": "Catalysis",
+                "b": "Energy storage",
+                "c": "Structural support",
+                "d": "Transport"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What type of reaction links monomers together to form a polymer?",
+            "options": {
+                "a": "Hydrolysis",
+                "b": "Condensation",
+                "c": "Oxidation",
+                "d": "Reduction"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a characteristic of unsaturated fats?",
+            "options": {
+                "a": "They are solid at room temperature",
+                "b": "They contain no double bonds",
+                "c": "They are typically found in animal fats",
+                "d": "They have one or more double bonds"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which nitrogenous base is found in RNA but not in DNA?",
+            "options": {
+                "a": "Adenine",
+                "b": "Cytosine",
+                "c": "Uracil",
+                "d": "Thymine"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the main function of enzymes?",
+            "options": {
+                "a": "To provide structural support",
+                "b": "To store genetic information",
+                "c": "To catalyze biochemical reactions",
+                "d": "To transport molecules"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What type of macromolecule is DNA?",
+            "options": {
+                "a": "Protein",
+                "b": "Lipid",
+                "c": "Carbohydrate",
+                "d": "Nucleic acid"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following is a characteristic of enzymes?",
+            "options": {
+                "a": "They are consumed in the reaction",
+                "b": "They increase the activation energy of reactions",
+                "c": "They are specific to substrates",
+                "d": "They cannot be regulated"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the 'lock and key' model of enzyme activity?",
+            "options": {
+                "a": "Enzymes change shape to fit the substrate",
+                "b": "Enzymes and substrates fit together without changing shape",
+                "c": "Substrates change shape to fit the enzyme",
+                "d": "Enzymes require cofactors to fit substrates"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following factors does NOT affect enzyme activity?",
+            "options": {
+                "a": "Temperature",
+                "b": "pH",
+                "c": "Substrate concentration",
+                "d": "Color"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "What is the function of a cell's mitochondria?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "Energy production",
+                "c": "Genetic information storage",
+                "d": "Photosynthesis"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which organelle is responsible for protein synthesis?",
+            "options": {
+                "a": "Ribosome",
+                "b": "Mitochondrion",
+                "c": "Lysosome",
+                "d": "Golgi apparatus"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following structures is found in plant cells but not in animal cells?",
+            "options": {
+                "a": "Mitochondria",
+                "b": "Endoplasmic reticulum",
+                "c": "Cell wall",
+                "d": "Nucleus"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the primary function of the lysosome?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "Energy production",
+                "c": "Digestion and waste removal",
+                "d": "Transport of molecules"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the main function of the cell membrane?",
+            "options": {
+                "a": "Genetic information storage",
+                "b": "Protein synthesis",
+                "c": "Energy production",
+                "d": "Regulating what enters and leaves the cell"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which component of the cell membrane is primarily responsible for its fluidity?",
+            "options": {
+                "a": "Phospholipids",
+                "b": "Proteins",
+                "c": "Cholesterol",
+                "d": "Carbohydrates"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What process involves the movement of water across a selectively permeable membrane?",
+            "options": {
+                "a": "Osmosis",
+                "b": "Diffusion",
+                "c": "Facilitated diffusion",
+                "d": "Active transport"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which organelle modifies, sorts, and packages proteins and lipids for storage or transport out of the cell?",
+            "options": {
+                "a": "Ribosome",
+                "b": "Endoplasmic reticulum",
+                "c": "Golgi apparatus",
+                "d": "Lysosome"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Where does glycolysis take place within a cell?",
+            "options": {
+                "a": "Mitochondria",
+                "b": "Cytoplasm",
+                "c": "Nucleus",
+                "d": "Endoplasmic reticulum"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a product of cellular respiration?",
+            "options": {
+                "a": "Oxygen",
+                "b": "Glucose",
+                "c": "Carbon dioxide",
+                "d": "Lactic acid"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following statements about enzymes is true?",
+            "options": {
+                "a": "Enzymes are consumed in the reactions they catalyze",
+                "b": "Enzymes are proteins that function as catalysts",
+                "c": "Enzymes lower the activation energy of reactions",
+                "d": "Enzymes work best at extremely high temperatures"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the function of the cell's nucleus?",
+            "options": {
+                "a": "Energy production",
+                "b": "Protein synthesis",
+                "c": "Genetic information storage",
+                "d": "Photosynthesis"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is NOT part of the endomembrane system?",
+            "options": {
+                "a": "Nuclear envelope",
+                "b": "Golgi apparatus",
+                "c": "Mitochondria",
+                "d": "Endoplasmic reticulum"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following processes produces the most ATP during cellular respiration?",
+            "options": {
+                "a": "Glycolysis",
+                "b": "Krebs cycle",
+                "c": "Electron transport chain",
+                "d": "Fermentation"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is an enzyme's substrate?",
+            "options": {
+                "a": "The molecule upon which an enzyme acts",
+                "b": "A molecule that enhances the enzyme's activity",
+                "c": "A molecule that inhibits the enzyme's activity",
+                "d": "The product of the enzyme's reaction"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a characteristic of prokaryotic cells?",
+            "options": {
+                "a": "They have a nucleus",
+                "b": "They lack a cell membrane",
+                "c": "They have membrane-bound organelles",
+                "d": "They lack membrane-bound organelles"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "What is the primary function of chloroplasts?",
+            "options": {
+                "a": "Energy production",
+                "b": "Protein synthesis",
+                "c": "Photosynthesis",
+                "d": "Genetic information storage"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the role of NADH and FADH2 in cellular respiration?",
+            "options": {
+                "a": "They act as final electron acceptors",
+                "b": "They are involved in ATP synthesis",
+                "c": "They carry electrons to the electron transport chain",
+                "d": "They break down glucose molecules"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following statements about viruses is true?",
+            "options": {
+                "a": "Viruses are considered living organisms",
+                "b": "Viruses can replicate independently",
+                "c": "Viruses require a host cell to reproduce",
+                "d": "Viruses have a cellular structure"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a feature of all prokaryotic cells?",
+            "options": {
+                "a": "Nucleus",
+                "b": "Mitochondria",
+                "c": "Cell membrane",
+                "d": "Endoplasmic reticulum"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the term 'bioenergetics'?",
+            "options": {
+                "a": "The study of genetic information",
+                "b": "The study of cellular structures",
+                "c": "The study of energy flow through living systems",
+                "d": "The study of enzyme functions"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a common characteristic of fungi?",
+            "options": {
+                "a": "They are autotrophic",
+                "b": "They have cell walls made of cellulose",
+                "c": "They reproduce using spores",
+                "d": "They perform photosynthesis"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which group of organisms is classified under Protoctista?",
+            "options": {
+                "a": "Bacteria",
+                "b": "Viruses",
+                "c": "Algae",
+                "d": "Fungi"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a characteristic of plant cells but not animal cells?",
+            "options": {
+                "a": "Mitochondria",
+                "b": "Cell wall",
+                "c": "Nucleus",
+                "d": "Ribosomes"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which part of the plant is primarily responsible for photosynthesis?",
+            "options": {
+                "a": "Roots",
+                "b": "Stems",
+                "c": "Leaves",
+                "d": "Flowers"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which phylum includes organisms that have a segmented body and jointed appendages?",
+            "options": {
+                "a": "Mollusca",
+                "b": "Annelida",
+                "c": "Arthropoda",
+                "d": "Chordata"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the term 'holozoic nutrition'?",
+            "options": {
+                "a": "Absorption of dissolved nutrients",
+                "b": "Ingestion of solid food particles",
+                "c": "Synthesis of food from inorganic substances",
+                "d": "Decomposition of organic matter"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the primary function of the circulatory system?",
+            "options": {
+                "a": "Respiration",
+                "b": "Digestion",
+                "c": "Transportation of nutrients and gases",
+                "d": "Excretion"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a function of white blood cells?",
+            "options": {
+                "a": "Oxygen transport",
+                "b": "Nutrient absorption",
+                "c": "Immune response",
+                "d": "Blood clotting"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following components of blood is primarily responsible for clotting?",
+            "options": {
+                "a": "Red blood cells",
+                "b": "White blood cells",
+                "c": "Platelets",
+                "d": "Plasma"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of antibodies?",
+            "options": {
+                "a": "They transport oxygen",
+                "b": "They aid in digestion",
+                "c": "They recognize and neutralize pathogens",
+                "d": "They regulate body temperature"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the main function of the alveoli in the lungs?",
+            "options": {
+                "a": "Transport of nutrients",
+                "b": "Exchange of gases",
+                "c": "Production of enzymes",
+                "d": "Regulation of blood pressure"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a characteristic of viruses?",
+            "options": {
+                "a": "They are cellular organisms",
+                "b": "They can reproduce independently",
+                "c": "They require a host cell to replicate",
+                "d": "They have a metabolism"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which type of cell lacks a nucleus?",
+            "options": {
+                "a": "Eukaryotic cell",
+                "b": "Prokaryotic cell",
+                "c": "Plant cell",
+                "d": "Animal cell"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a function of ribosomes?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "Energy production",
+                "c": "Genetic information storage",
+                "d": "Photosynthesis"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which process involves the splitting of glucose into two molecules of pyruvate?",
+            "options": {
+                "a": "Glycolysis",
+                "b": "Krebs cycle",
+                "c": "Electron transport chain",
+                "d": "Fermentation"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which structure in the cell is responsible for producing ATP?",
+            "options": {
+                "a": "Nucleus",
+                "b": "Mitochondria",
+                "c": "Ribosome",
+                "d": "Endoplasmic reticulum"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a characteristic of eukaryotic cells?",
+            "options": {
+                "a": "They lack a nucleus",
+                "b": "They have membrane-bound organelles",
+                "c": "They have a cell wall made of peptidoglycan",
+                "d": "They have circular DNA"
+            },
+            "answer": "b"
+        }
+    ],
+    "Chemistry": [
+        {
+            "question": "What is the molar mass of water (H2O)?",
+            "options": {
+                "a": "16 g/mol",
+                "b": "18 g/mol",
+                "c": "20 g/mol",
+                "d": "22 g/mol"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is the correct balanced equation for the combustion of methane (CH4)?",
+            "options": {
+                "a": "CH4 + O2 -> CO2 + H2O",
+                "b": "CH4 + 2O2 -> CO2 + 2H2O",
+                "c": "CH4 + O2 -> CO + 2H2O",
+                "d": "2CH4 + O2 -> 2CO2 + H2O"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "How many moles of sodium ions are present in 1 mole of Na2SO4?",
+            "options": {
+                "a": "1",
+                "b": "2",
+                "c": "3",
+                "d": "4"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the empirical formula of a compound containing 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?",
+            "options": {
+                "a": "CH2O",
+                "b": "C2H4O2",
+                "c": "CH3O",
+                "d": "C2H6O"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following subatomic particles has a positive charge?",
+            "options": {
+                "a": "Electron",
+                "b": "Proton",
+                "c": "Neutron",
+                "d": "Photon"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the atomic number of an element that has 20 protons?",
+            "options": {
+                "a": "10",
+                "b": "20",
+                "c": "30",
+                "d": "40"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which element has the electron configuration 1s2 2s2 2p6 3s2 3p4?",
+            "options": {
+                "a": "Oxygen",
+                "b": "Sulfur",
+                "c": "Chlorine",
+                "d": "Phosphorus"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "In the Bohr model of the atom, electrons orbit the nucleus in:",
+            "options": {
+                "a": "Random paths",
+                "b": "Fixed paths",
+                "c": "Elliptical orbits",
+                "d": "None of the above"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What type of bond involves the sharing of electron pairs between atoms?",
+            "options": {
+                "a": "Ionic bond",
+                "b": "Covalent bond",
+                "c": "Hydrogen bond",
+                "d": "Van der Waals force"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which molecule has a linear shape?",
+            "options": {
+                "a": "H2O",
+                "b": "CO2",
+                "c": "NH3",
+                "d": "CH4"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the bond angle in a water molecule (H2O)?",
+            "options": {
+                "a": "104.5 degrees",
+                "b": "120 degrees",
+                "c": "109.5 degrees",
+                "d": "180 degrees"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which theory explains the shapes of molecules using electron pairs around a central atom?",
+            "options": {
+                "a": "Lewis theory",
+                "b": "Molecular orbital theory",
+                "c": "VSEPR theory",
+                "d": "Crystal field theory"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the hybridization of the carbon atoms in ethylene (C2H4)?",
+            "options": {
+                "a": "sp",
+                "b": "sp2",
+                "c": "sp3",
+                "d": "dsp2"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which gas law states that the volume of a gas is directly proportional to its temperature at constant pressure?",
+            "options": {
+                "a": "Boyle's Law",
+                "b": "Charles's Law",
+                "c": "Avogadro's Law",
+                "d": "Ideal Gas Law"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the pressure exerted by 1 mole of an ideal gas at STP (standard temperature and pressure)?",
+            "options": {
+                "a": "1 atm",
+                "b": "0.5 atm",
+                "c": "2 atm",
+                "d": "3 atm"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is NOT an assumption of the ideal gas law?",
+            "options": {
+                "a": "Gas particles have negligible volume",
+                "b": "Gas particles have elastic collisions",
+                "c": "Gas particles exert forces on each other",
+                "d": "Gas particles are in constant random motion"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which state of matter has a definite volume but no definite shape?",
+            "options": {
+                "a": "Solid",
+                "b": "Liquid",
+                "c": "Gas",
+                "d": "Plasma"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the process of a liquid changing to a gas called?",
+            "options": {
+                "a": "Condensation",
+                "b": "Evaporation",
+                "c": "Sublimation",
+                "d": "Freezing"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following describes the behavior of liquids?",
+            "options": {
+                "a": "Particles are tightly packed in a fixed arrangement",
+                "b": "Particles are free to move past each other",
+                "c": "Particles are far apart and move independently",
+                "d": "Particles are ionized and conduct electricity"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which property measures the resistance of a liquid to flow?",
+            "options": {
+                "a": "Viscosity",
+                "b": "Surface tension",
+                "c": "Density",
+                "d": "Boiling point"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What type of solid has a regular, repeating pattern of particles?",
+            "options": {
+                "a": "Amorphous solid",
+                "b": "Crystalline solid",
+                "c": "Liquid crystal",
+                "d": "Plasma"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of an amorphous solid?",
+            "options": {
+                "a": "Salt",
+                "b": "Diamond",
+                "c": "Glass",
+                "d": "Ice"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which type of crystal is held together by covalent bonds?",
+            "options": {
+                "a": "Ionic crystal",
+                "b": "Molecular crystal",
+                "c": "Metallic crystal",
+                "d": "Network crystal"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "What is the main factor that determines the state of matter of a substance?",
+            "options": {
+                "a": "Temperature",
+                "b": "Pressure",
+                "c": "Volume",
+                "d": "Density"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the equilibrium constant expression for the reaction: 2A + B ↔ 2C?",
+            "options": {
+                "a": "K = [C]^2 / [A]^2[B]",
+                "b": "K = [A]^2[B] / [C]^2",
+                "c": "K = [C] / [A][B]",
+                "d": "K = [A][B] / [C]"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the effect of increasing the concentration of reactants on the position of equilibrium?",
+            "options": {
+                "a": "Shifts to the right",
+                "b": "Shifts to the left",
+                "c": "No effect",
+                "d": "Decreases the rate of reaction"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following statements about acids and bases is true?",
+            "options": {
+                "a": "Acids accept protons",
+                "b": "Bases donate protons",
+                "c": "Acids donate protons",
+                "d": "Bases accept electrons"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the pH of a solution with a hydrogen ion concentration of 1 x 10^-4 M?",
+            "options": {
+                "a": "4",
+                "b": "7",
+                "c": "10",
+                "d": "14"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a strong acid?",
+            "options": {
+                "a": "H2CO3",
+                "b": "HCl",
+                "c": "HF",
+                "d": "H2O"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the conjugate base of HCO3-?",
+            "options": {
+                "a": "H2CO3",
+                "b": "CO3^2-",
+                "c": "H3O+",
+                "d": "OH-"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following pairs of compounds are both salts?",
+            "options": {
+                "a": "NaCl and H2O",
+                "b": "KNO3 and NaOH",
+                "c": "NaCl and KNO3",
+                "d": "HCl and KOH"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following factors does NOT affect the rate of a chemical reaction?",
+            "options": {
+                "a": "Temperature",
+                "b": "Concentration of reactants",
+                "c": "Particle size",
+                "d": "Color of reactants"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "What is the effect of a catalyst on the activation energy of a reaction?",
+            "options": {
+                "a": "Increases the activation energy",
+                "b": "Decreases the activation energy",
+                "c": "Has no effect",
+                "d": "Changes the equilibrium constant"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes a solution?",
+            "options": {
+                "a": "A homogeneous mixture",
+                "b": "A heterogeneous mixture",
+                "c": "A pure substance",
+                "d": "A compound"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the solute in a solution of salt water?",
+            "options": {
+                "a": "Water",
+                "b": "Salt",
+                "c": "Both water and salt",
+                "d": "Neither water nor salt"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of a colloid?",
+            "options": {
+                "a": "Salt water",
+                "b": "Sand and water",
+                "c": "Milk",
+                "d": "Carbon dioxide in water"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the process of a solid dissolving in a liquid called?",
+            "options": {
+                "a": "Precipitation",
+                "b": "Sublimation",
+                "c": "Dissolution",
+                "d": "Condensation"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the effect of increasing temperature on the solubility of most solid solutes in water?",
+            "options": {
+                "a": "Increases solubility",
+                "b": "Decreases solubility",
+                "c": "Has no effect",
+                "d": "Increases the rate of dissolution"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a characteristic of a base?",
+            "options": {
+                "a": "Tastes sour",
+                "b": "Feels slippery",
+                "c": "Turns red litmus paper blue",
+                "d": "Reacts with metals to produce hydrogen gas"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the common ion effect?",
+            "options": {
+                "a": "A decrease in solubility due to the presence of a common ion",
+                "b": "An increase in solubility due to the presence of a common ion",
+                "c": "The formation of a precipitate in the presence of a common ion",
+                "d": "The change in color of a solution in the presence of a common ion"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following statements about chemical equilibrium is true?",
+            "options": {
+                "a": "At equilibrium, the concentrations of reactants and products are equal",
+                "b": "At equilibrium, the forward and reverse reaction rates are equal",
+                "c": "At equilibrium, the reaction has stopped",
+                "d": "At equilibrium, the amount of reactants is greater than the amount of products"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the effect of increasing temperature on the equilibrium position of an exothermic reaction?",
+            "options": {
+                "a": "Shifts to the right",
+                "b": "Shifts to the left",
+                "c": "No effect",
+                "d": "Decreases the rate of reaction"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following statements about acids is true?",
+            "options": {
+                "a": "Acids have a pH greater than 7",
+                "b": "Acids accept protons",
+                "c": "Acids donate electrons",
+                "d": "Acids donate protons"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "What is the pH of a neutral solution at 25°C?",
+            "options": {
+                "a": "0",
+                "b": "7",
+                "c": "14",
+                "d": "10"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following compounds is a base?",
+            "options": {
+                "a": "HCl",
+                "b": "H2SO4",
+                "c": "NaOH",
+                "d": "CH3COOH"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the pH of a 0.01 M HCl solution?",
+            "options": {
+                "a": "1",
+                "b": "2",
+                "c": "3",
+                "d": "4"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a weak acid?",
+            "options": {
+                "a": "HCl",
+                "b": "HNO3",
+                "c": "CH3COOH",
+                "d": "H2SO4"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the conjugate acid of NH3?",
+            "options": {
+                "a": "NH2-",
+                "b": "NH4+",
+                "c": "H2O",
+                "d": "OH-"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the pH of a solution with a hydroxide ion concentration of 1 x 10^-5 M?",
+            "options": {
+                "a": "5",
+                "b": "7",
+                "c": "9",
+                "d": "12"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following pairs of compounds are both acids?",
+            "options": {
+                "a": "HCl and NaOH",
+                "b": "H2SO4 and HCl",
+                "c": "NaCl and KNO3",
+                "d": "H2O and NH3"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a characteristic of a salt?",
+            "options": {
+                "a": "Tastes bitter",
+                "b": "Feels slippery",
+                "c": "Is formed from the neutralization of an acid and a base",
+                "d": "Reacts with metals to produce hydrogen gas"
+            },
+            "answer": "c"
+        }
+    ],
+    "Physics": [
+        {
+            "question": "Which of the following is a base SI unit?",
+            "options": {
+                "a": "Meter",
+                "b": "Liter",
+                "c": "Minute",
+                "d": "Gram"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the symbol for the SI unit of time?",
+            "options": {
+                "a": "t",
+                "b": "s",
+                "c": "h",
+                "d": "T"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following quantities is a vector?",
+            "options": {
+                "a": "Speed",
+                "b": "Distance",
+                "c": "Velocity",
+                "d": "Mass"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the SI unit for force?",
+            "options": {
+                "a": "Newton",
+                "b": "Joule",
+                "c": "Watt",
+                "d": "Pascal"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the standard unit of electric current?",
+            "options": {
+                "a": "Volt",
+                "b": "Ampere",
+                "c": "Coulomb",
+                "d": "Ohm"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following describes the motion of an object with constant acceleration?",
+            "options": {
+                "a": "Linear motion with increasing speed",
+                "b": "Linear motion with decreasing speed",
+                "c": "Circular motion",
+                "d": "Oscillatory motion"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If a car travels 60 km in 2 hours, what is its average speed?",
+            "options": {
+                "a": "30 km/h",
+                "b": "60 km/h",
+                "c": "90 km/h",
+                "d": "120 km/h"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the slope of a position-time graph?",
+            "options": {
+                "a": "Acceleration",
+                "b": "Velocity",
+                "c": "Distance",
+                "d": "Speed"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following quantities remains constant in uniform circular motion?",
+            "options": {
+                "a": "Speed",
+                "b": "Velocity",
+                "c": "Acceleration",
+                "d": "Displacement"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the acceleration due to gravity on the surface of the Earth?",
+            "options": {
+                "a": "7.8 m/s^2",
+                "b": "8.8 m/s^2",
+                "c": "9.8 m/s^2",
+                "d": "10.8 m/s^2"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which law states that the net force acting on an object is equal to the mass of the object times its acceleration?",
+            "options": {
+                "a": "Newton's First Law",
+                "b": "Newton's Second Law",
+                "c": "Newton's Third Law",
+                "d": "Law of Gravitation"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the net force on an object in equilibrium?",
+            "options": {
+                "a": "Greater than zero",
+                "b": "Equal to zero",
+                "c": "Less than zero",
+                "d": "Equal to the mass of the object"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following forces is responsible for the circular motion of an object?",
+            "options": {
+                "a": "Centripetal force",
+                "b": "Gravitational force",
+                "c": "Frictional force",
+                "d": "Magnetic force"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the direction of the centripetal force acting on an object in uniform circular motion?",
+            "options": {
+                "a": "Tangential to the path",
+                "b": "Radially outward",
+                "c": "Radially inward",
+                "d": "Perpendicular to the plane of motion"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the angular velocity of an object that completes one revolution in 2 seconds?",
+            "options": {
+                "a": "π rad/s",
+                "b": "2π rad/s",
+                "c": "4π rad/s",
+                "d": "π/2 rad/s"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the kinetic energy of a 2 kg mass moving at a speed of 3 m/s?",
+            "options": {
+                "a": "3 J",
+                "b": "6 J",
+                "c": "9 J",
+                "d": "18 J"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the work done by a force of 10 N moving an object 2 meters in the direction of the force?",
+            "options": {
+                "a": "5 J",
+                "b": "10 J",
+                "c": "15 J",
+                "d": "20 J"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following is a form of potential energy?",
+            "options": {
+                "a": "Thermal energy",
+                "b": "Kinetic energy",
+                "c": "Chemical energy",
+                "d": "Sound energy"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the power output of a machine that does 500 J of work in 10 seconds?",
+            "options": {
+                "a": "5 W",
+                "b": "50 W",
+                "c": "500 W",
+                "d": "5000 W"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the density of an object that has a mass of 10 kg and a volume of 2 m^3?",
+            "options": {
+                "a": "5 kg/m^3",
+                "b": "10 kg/m^3",
+                "c": "15 kg/m^3",
+                "d": "20 kg/m^3"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following principles explains why objects float or sink in a fluid?",
+            "options": {
+                "a": "Bernoulli's principle",
+                "b": "Pascal's principle",
+                "c": "Archimedes' principle",
+                "d": "Coulomb's principle"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the pressure at the bottom of a 10 m deep freshwater lake?",
+            "options": {
+                "a": "10,000 Pa",
+                "b": "50,000 Pa",
+                "c": "100,000 Pa",
+                "d": "200,000 Pa"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following describes a fluid in motion?",
+            "options": {
+                "a": "Static fluid",
+                "b": "Dynamic fluid",
+                "c": "Equilibrium fluid",
+                "d": "None of the above"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the term for the resistance experienced by an object moving through a fluid?",
+            "options": {
+                "a": "Buoyant force",
+                "b": "Viscous force",
+                "c": "Lift force",
+                "d": "Drag force"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which equation relates the pressure, velocity, and height of a fluid in steady flow?",
+            "options": {
+                "a": "Pascal's equation",
+                "b": "Bernoulli's equation",
+                "c": "Archimedes' equation",
+                "d": "Coulomb's equation"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes an electric field?",
+            "options": {
+                "a": "A region where magnetic forces are felt",
+                "b": "A region where gravitational forces are felt",
+                "c": "A region where electric forces are felt",
+                "d": "A region where nuclear forces are felt"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the SI unit of electric field strength?",
+            "options": {
+                "a": "Volt",
+                "b": "Newton",
+                "c": "Coulomb",
+                "d": "Volt per meter"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "What is the direction of the electric field around a positive charge?",
+            "options": {
+                "a": "Towards the charge",
+                "b": "Away from the charge",
+                "c": "Circular around the charge",
+                "d": "Perpendicular to the charge"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes a capacitor?",
+            "options": {
+                "a": "A device that stores energy in a magnetic field",
+                "b": "A device that stores energy in an electric field",
+                "c": "A device that converts electrical energy to mechanical energy",
+                "d": "A device that converts mechanical energy to electrical energy"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the capacitance of a capacitor if it stores 1 C of charge at a potential difference of 1 V?",
+            "options": {
+                "a": "1 F",
+                "b": "0.5 F",
+                "c": "2 F",
+                "d": "0.1 F"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What happens to the capacitance of a parallel plate capacitor if the distance between the plates is doubled?",
+            "options": {
+                "a": "It doubles",
+                "b": "It halves",
+                "c": "It remains the same",
+                "d": "It quadruples"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following describes a direct current (DC) circuit?",
+            "options": {
+                "a": "Current flows in one direction",
+                "b": "Current flows in both directions",
+                "c": "Current does not flow",
+                "d": "None of the above"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the voltage across a resistor of 5 ohms carrying a current of 2 A?",
+            "options": {
+                "a": "5 V",
+                "b": "10 V",
+                "c": "15 V",
+                "d": "20 V"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which law states that the current through a conductor between two points is directly proportional to the voltage across the two points?",
+            "options": {
+                "a": "Kirchhoff's Law",
+                "b": "Ohm's Law",
+                "c": "Faraday's Law",
+                "d": "Lenz's Law"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the total resistance of three resistors, 2 ohms, 4 ohms, and 6 ohms, connected in series?",
+            "options": {
+                "a": "2 ohms",
+                "b": "4 ohms",
+                "c": "6 ohms",
+                "d": "12 ohms"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "What is the time period of an oscillation that completes one cycle in 0.5 seconds?",
+            "options": {
+                "a": "0.5 s",
+                "b": "1 s",
+                "c": "2 s",
+                "d": "4 s"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the frequency of a wave with a period of 2 seconds?",
+            "options": {
+                "a": "0.5 Hz",
+                "b": "1 Hz",
+                "c": "2 Hz",
+                "d": "4 Hz"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following describes the motion of a simple harmonic oscillator?",
+            "options": {
+                "a": "Linear motion",
+                "b": "Circular motion",
+                "c": "Periodic motion",
+                "d": "Random motion"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the term for the maximum displacement from the equilibrium position in simple harmonic motion?",
+            "options": {
+                "a": "Frequency",
+                "b": "Amplitude",
+                "c": "Wavelength",
+                "d": "Period"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the speed of sound in air at room temperature?",
+            "options": {
+                "a": "150 m/s",
+                "b": "250 m/s",
+                "c": "340 m/s",
+                "d": "450 m/s"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following describes a longitudinal wave?",
+            "options": {
+                "a": "Particles move perpendicular to the direction of wave propagation",
+                "b": "Particles move parallel to the direction of wave propagation",
+                "c": "Particles move in circular paths",
+                "d": "Particles move in elliptical paths"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the principle of superposition in wave theory?",
+            "options": {
+                "a": "Waves can only pass through one another without interaction",
+                "b": "Waves can combine to form a resultant wave",
+                "c": "Waves can be absorbed by a medium",
+                "d": "Waves can be reflected and refracted"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the term for the bending of waves around obstacles?",
+            "options": {
+                "a": "Reflection",
+                "b": "Refraction",
+                "c": "Diffraction",
+                "d": "Interference"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the term for the change in frequency of a wave due to the relative motion of the source and the observer?",
+            "options": {
+                "a": "Doppler effect",
+                "b": "Huygens' principle",
+                "c": "Snell's law",
+                "d": "Fourier transform"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the angle of incidence if a light ray strikes a surface at an angle of 30 degrees to the normal?",
+            "options": {
+                "a": "0 degrees",
+                "b": "30 degrees",
+                "c": "60 degrees",
+                "d": "90 degrees"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the focal length of a convex lens with a radius of curvature of 10 cm?",
+            "options": {
+                "a": "5 cm",
+                "b": "10 cm",
+                "c": "15 cm",
+                "d": "20 cm"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes total internal reflection?",
+            "options": {
+                "a": "Light is completely absorbed by a medium",
+                "b": "Light is partially reflected and refracted at a boundary",
+                "c": "Light is completely reflected back into the original medium",
+                "d": "Light is scattered in all directions"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the term for the separation of white light into its constituent colors?",
+            "options": {
+                "a": "Reflection",
+                "b": "Refraction",
+                "c": "Diffraction",
+                "d": "Dispersion"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which type of communication uses radio waves to transmit information?",
+            "options": {
+                "a": "Optical communication",
+                "b": "Acoustic communication",
+                "c": "Wireless communication",
+                "d": "Wired communication"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a digital communication method?",
+            "options": {
+                "a": "AM radio",
+                "b": "FM radio",
+                "c": "Pulse code modulation",
+                "d": "Analog television"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the primary advantage of fiber optic communication?",
+            "options": {
+                "a": "Low cost",
+                "b": "High bandwidth",
+                "c": "Easy installation",
+                "d": "Durability"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of a modulated signal?",
+            "options": {
+                "a": "Direct current",
+                "b": "Alternating current",
+                "c": "Amplitude modulated wave",
+                "d": "Static noise"
+            },
+            "answer": "c"
+        }
+    ],
+    "English": [
+        {
+            "question": "Which of the following is an antonym for 'profound'?",
+            "options": {
+                "a": "Deep",
+                "b": "Superficial",
+                "c": "Meaningful",
+                "d": "Thoughtful"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which sentence uses 'affect' correctly?",
+            "options": {
+                "a": "The affect of the movie was long-lasting.",
+                "b": "The medicine did not affect her as expected.",
+                "c": "He wanted to affect a British accent.",
+                "d": "Her affect was cold and distant."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The phrase 'burning the midnight oil' is an example of:",
+            "options": {
+                "a": "Simile",
+                "b": "Metaphor",
+                "c": "Personification",
+                "d": "Idiom"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following is a synonym for 'circumspect'?",
+            "options": {
+                "a": "Careless",
+                "b": "Cautious",
+                "c": "Reckless",
+                "d": "Brave"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which sentence is correctly punctuated?",
+            "options": {
+                "a": "She asked, 'Can we go now'?",
+                "b": "She asked 'Can we go now'?",
+                "c": "She asked, 'Can we go now?'",
+                "d": "She asked 'Can we go now?'"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following words means 'extremely small'?",
+            "options": {
+                "a": "Gigantic",
+                "b": "Massive",
+                "c": "Minuscule",
+                "d": "Enormous"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "In which sentence is the word 'stationary' used correctly?",
+            "options": {
+                "a": "She bought new stationary for her office.",
+                "b": "The car remained stationary at the red light.",
+                "c": "He enjoys writing on beautiful stationary.",
+                "d": "They remained stationary for a long time."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of alliteration?",
+            "options": {
+                "a": "The sun set slowly in the west.",
+                "b": "She sells seashells by the seashore.",
+                "c": "He was as brave as a lion.",
+                "d": "The wind whispered through the trees."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the meaning of the word 'eloquent'?",
+            "options": {
+                "a": "Inarticulate",
+                "b": "Persuasive in speaking",
+                "c": "Silent",
+                "d": "Confused"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which word correctly completes this sentence: 'The ____ results were disappointing.'?",
+            "options": {
+                "a": "Finally",
+                "b": "Final",
+                "c": "Finalized",
+                "d": "Finality"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following words is a synonym for 'obscure'?",
+            "options": {
+                "a": "Clear",
+                "b": "Evident",
+                "c": "Ambiguous",
+                "d": "Obvious"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which sentence uses the correct form of 'affect' or 'effect'?",
+            "options": {
+                "a": "The new law had a positive affect.",
+                "b": "The new law had a positive effect.",
+                "c": "The new law effected positive change.",
+                "d": "The new law affected positive change."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of hyperbole?",
+            "options": {
+                "a": "I'm so hungry I could eat a horse.",
+                "b": "The leaves danced in the wind.",
+                "c": "The thunder grumbled like an old man.",
+                "d": "She is as busy as a bee."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the meaning of the word 'brevity'?",
+            "options": {
+                "a": "Lengthiness",
+                "b": "Shortness",
+                "c": "Complexity",
+                "d": "Eloquence"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which sentence is written in passive voice?",
+            "options": {
+                "a": "The dog chased the cat.",
+                "b": "The cat was chased by the dog.",
+                "c": "The cat chases the dog.",
+                "d": "The dog is chasing the cat."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following words means 'able to be believed'?",
+            "options": {
+                "a": "Credible",
+                "b": "Incredible",
+                "c": "Credulous",
+                "d": "Disbelievable"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following sentences is grammatically correct?",
+            "options": {
+                "a": "Neither of the answers are correct.",
+                "b": "Each of the students have a book.",
+                "c": "Everyone needs to bring their ID.",
+                "d": "Each of the answers is correct."
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following is a synonym for 'gregarious'?",
+            "options": {
+                "a": "Shy",
+                "b": "Sociable",
+                "c": "Reserved",
+                "d": "Quiet"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the meaning of the word 'insatiable'?",
+            "options": {
+                "a": "Easily satisfied",
+                "b": "Hard to please",
+                "c": "Impossible to satisfy",
+                "d": "Content"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which sentence uses 'there', 'their', or 'they're' correctly?",
+            "options": {
+                "a": "There going to the concert tonight.",
+                "b": "Their car is parked outside.",
+                "c": "They're house is the biggest on the block.",
+                "d": "There going to be late."
+            },
+            "answer": "b"
+        }
+    ]
+}

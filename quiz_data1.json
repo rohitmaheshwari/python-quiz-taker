@@ -1,0 +1,1530 @@
+{
+    "Biology": [
+        {
+            "question": "What type of bond links amino acids together in proteins?",
+            "options": {
+                "a": "Hydrogen bond",
+                "b": "Ionic bond",
+                "c": "Peptide bond",
+                "d": "Covalent bond"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is not a polysaccharide?",
+            "options": {
+                "a": "Cellulose",
+                "b": "Starch",
+                "c": "Glycogen",
+                "d": "Glucose"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Lipids are primarily composed of which of the following?",
+            "options": {
+                "a": "Amino acids",
+                "b": "Nucleotides",
+                "c": "Fatty acids and glycerol",
+                "d": "Monosaccharides"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the main function of nucleic acids?",
+            "options": {
+                "a": "Store energy",
+                "b": "Structural support",
+                "c": "Carry genetic information",
+                "d": "Catalyze reactions"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a reducing sugar?",
+            "options": {
+                "a": "Sucrose",
+                "b": "Lactose",
+                "c": "Starch",
+                "d": "Cellulose"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which vitamin is fat-soluble?",
+            "options": {
+                "a": "Vitamin B",
+                "b": "Vitamin C",
+                "c": "Vitamin D",
+                "d": "Vitamin H"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a disaccharide?",
+            "options": {
+                "a": "Glucose",
+                "b": "Fructose",
+                "c": "Lactose",
+                "d": "Ribose"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Enzymes are made up of:",
+            "options": {
+                "a": "Carbohydrates",
+                "b": "Lipids",
+                "c": "Proteins",
+                "d": "Nucleic acids"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The building blocks of proteins are:",
+            "options": {
+                "a": "Monosaccharides",
+                "b": "Amino acids",
+                "c": "Fatty acids",
+                "d": "Nucleotides"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The primary structure of a protein refers to:",
+            "options": {
+                "a": "The sequence of amino acids",
+                "b": "The alpha helix or beta sheet",
+                "c": "The three-dimensional shape",
+                "d": "The interaction between multiple polypeptides"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Enzymes act as:",
+            "options": {
+                "a": "Reactants",
+                "b": "Products",
+                "c": "Catalysts",
+                "d": "Inhibitors"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The active site of an enzyme is:",
+            "options": {
+                "a": "Where the substrate binds",
+                "b": "The product of the reaction",
+                "c": "Destroyed after the reaction",
+                "d": "None of the above"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Enzyme activity can be affected by:",
+            "options": {
+                "a": "Temperature",
+                "b": "pH",
+                "c": "Substrate concentration",
+                "d": "All of the above"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which enzyme breaks down starch into maltose?",
+            "options": {
+                "a": "Protease",
+                "b": "Amylase",
+                "c": "Lipase",
+                "d": "Lactase"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which term describes the loss of enzyme activity due to an increase in temperature?",
+            "options": {
+                "a": "Hydrolysis",
+                "b": "Denaturation",
+                "c": "Synthesis",
+                "d": "Catalysis"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which organelle is known as the powerhouse of the cell?",
+            "options": {
+                "a": "Nucleus",
+                "b": "Mitochondria",
+                "c": "Chloroplast",
+                "d": "Endoplasmic reticulum"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The fluid mosaic model describes the structure of:",
+            "options": {
+                "a": "Cell wall",
+                "b": "Cell membrane",
+                "c": "Nucleus",
+                "d": "Ribosome"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is not a component of the cell membrane?",
+            "options": {
+                "a": "Phospholipids",
+                "b": "Proteins",
+                "c": "Nucleic acids",
+                "d": "Cholesterol"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which cell organelle is responsible for photosynthesis?",
+            "options": {
+                "a": "Mitochondria",
+                "b": "Chloroplast",
+                "c": "Ribosome",
+                "d": "Lysosome"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The site of ribosome production within the nucleus is called the:",
+            "options": {
+                "a": "Chromatin",
+                "b": "Nucleolus",
+                "c": "Nuclear envelope",
+                "d": "Nuclear pore"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is not an acellular organism?",
+            "options": {
+                "a": "Virus",
+                "b": "Prion",
+                "c": "Bacterium",
+                "d": "Viroid"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which structure is found in prokaryotic cells but not in eukaryotic cells?",
+            "options": {
+                "a": "Nucleus",
+                "b": "Ribosome",
+                "c": "Plasma membrane",
+                "d": "Nucleoid"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Prokaryotic cells reproduce by:",
+            "options": {
+                "a": "Binary fission",
+                "b": "Mitosis",
+                "c": "Meiosis",
+                "d": "Budding"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a characteristic of fungi?",
+            "options": {
+                "a": "Autotrophic",
+                "b": "Unicellular",
+                "c": "Heterotrophic",
+                "d": "Prokaryotic"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Protozoa are primarily:",
+            "options": {
+                "a": "Autotrophs",
+                "b": "Heterotrophs",
+                "c": "Phototrophs",
+                "d": "Chemotrophs"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a non-vascular plant?",
+            "options": {
+                "a": "Fern",
+                "b": "Moss",
+                "c": "Pine tree",
+                "d": "Flowering plant"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Gymnosperms are characterized by:",
+            "options": {
+                "a": "Flowers",
+                "b": "Naked seeds",
+                "c": "Fruit",
+                "d": "Spores"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which group of animals has an exoskeleton?",
+            "options": {
+                "a": "Mammals",
+                "b": "Birds",
+                "c": "Reptiles",
+                "d": "Arthropods"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which phylum do starfish belong to?",
+            "options": {
+                "a": "Cnidaria",
+                "b": "Mollusca",
+                "c": "Echinodermata",
+                "d": "Arthropoda"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which plant tissue is responsible for the transport of water?",
+            "options": {
+                "a": "Phloem",
+                "b": "Xylem",
+                "c": "Cortex",
+                "d": "Pith"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The process of converting light energy into chemical energy in plants is called:",
+            "options": {
+                "a": "Respiration",
+                "b": "Photosynthesis",
+                "c": "Transpiration",
+                "d": "Glycolysis"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "In which part of the plant does photosynthesis mainly occur?",
+            "options": {
+                "a": "Roots",
+                "b": "Stem",
+                "c": "Leaves",
+                "d": "Flowers"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Holozoic nutrition involves:",
+            "options": {
+                "a": "Absorbing dissolved nutrients",
+                "b": "Photosynthesis",
+                "c": "Ingesting solid food",
+                "d": "Chemosynthesis"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a part of the circulatory system?",
+            "options": {
+                "a": "Liver",
+                "b": "Kidney",
+                "c": "Heart",
+                "d": "Lungs"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Blood is pumped from the heart to the rest of the body through:",
+            "options": {
+                "a": "Arteries",
+                "b": "Veins",
+                "c": "Capillaries",
+                "d": "Lymphatic vessels"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which type of blood cell is primarily involved in immunity?",
+            "options": {
+                "a": "Red blood cells",
+                "b": "White blood cells",
+                "c": "Platelets",
+                "d": "Plasma cells"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The process of gas exchange in the lungs occurs in the:",
+            "options": {
+                "a": "Bronchi",
+                "b": "Trachea",
+                "c": "Alveoli",
+                "d": "Larynx"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The main function of red blood cells is to:",
+            "options": {
+                "a": "Fight infection",
+                "b": "Carry oxygen",
+                "c": "Form clots",
+                "d": "Regulate temperature"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which structure in the human body is responsible for gas exchange?",
+            "options": {
+                "a": "Heart",
+                "b": "Liver",
+                "c": "Lungs",
+                "d": "Kidneys"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is not a part of the immune system?",
+            "options": {
+                "a": "Lymph nodes",
+                "b": "Spleen",
+                "c": "Bone marrow",
+                "d": "Pancreas"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Antibodies are produced by:",
+            "options": {
+                "a": "T cells",
+                "b": "B cells",
+                "c": "Macrophages",
+                "d": "Neutrophils"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which gas is primarily exchanged in the process of respiration?",
+            "options": {
+                "a": "Nitrogen",
+                "b": "Oxygen",
+                "c": "Carbon dioxide",
+                "d": "Methane"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following cells engulf pathogens in the immune system?",
+            "options": {
+                "a": "B cells",
+                "b": "T cells",
+                "c": "Macrophages",
+                "d": "Erythrocytes"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which part of the human brain regulates breathing?",
+            "options": {
+                "a": "Cerebrum",
+                "b": "Cerebellum",
+                "c": "Medulla oblongata",
+                "d": "Hypothalamus"
+            },
+            "answer": "c"
+        }
+    ],
+    "Chemistry": [
+        {
+            "question": "Which of the following is the correct unit for molar mass?",
+            "options": {
+                "a": "g/mol",
+                "b": "kg/mol",
+                "c": "mol/kg",
+                "d": "mol/L"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Avogadro's number is:",
+            "options": {
+                "a": "6.02 x 10^23",
+                "b": "3.14 x 10^22",
+                "c": "1.60 x 10^-19",
+                "d": "9.81 x 10^3"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The empirical formula of a compound is determined by:",
+            "options": {
+                "a": "Its molecular weight",
+                "b": "Its percent composition by mass",
+                "c": "Its solubility",
+                "d": "Its color"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "A balanced chemical equation obeys the law of:",
+            "options": {
+                "a": "Conservation of mass",
+                "b": "Conservation of energy",
+                "c": "Conservation of momentum",
+                "d": "Conservation of charge"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which subatomic particle has a negative charge?",
+            "options": {
+                "a": "Proton",
+                "b": "Neutron",
+                "c": "Electron",
+                "d": "Nucleus"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The number of protons in an atom is known as the:",
+            "options": {
+                "a": "Mass number",
+                "b": "Atomic number",
+                "c": "Isotope number",
+                "d": "Electron number"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The electron configuration of an atom describes the:",
+            "options": {
+                "a": "Number of neutrons",
+                "b": "Arrangement of electrons",
+                "c": "Mass of the atom",
+                "d": "Type of bonds it forms"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The Heisenberg Uncertainty Principle states that:",
+            "options": {
+                "a": "We cannot know the exact position and momentum of an electron simultaneously",
+                "b": "Electrons move in fixed orbits",
+                "c": "Protons are more massive than neutrons",
+                "d": "Atoms are indivisible"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Covalent bonds involve the:",
+            "options": {
+                "a": "Transfer of electrons",
+                "b": "Sharing of electrons",
+                "c": "Loss of protons",
+                "d": "Gain of neutrons"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The VSEPR theory helps to predict the:",
+            "options": {
+                "a": "Boiling point of compounds",
+                "b": "Solubility of compounds",
+                "c": "Shape of molecules",
+                "d": "Reaction rates"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The triple bond in nitrogen (N2) is composed of:",
+            "options": {
+                "a": "One sigma bond and two pi bonds",
+                "b": "Two sigma bonds and one pi bond",
+                "c": "Three sigma bonds",
+                "d": "Three pi bonds"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is not a type of intermolecular force?",
+            "options": {
+                "a": "London dispersion forces",
+                "b": "Hydrogen bonding",
+                "c": "Ionic bonding",
+                "d": "Dipole-dipole interactions"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The gas laws describe the behavior of gases in terms of:",
+            "options": {
+                "a": "Volume, temperature, and pressure",
+                "b": "Volume, temperature, and mass",
+                "c": "Temperature, mass, and density",
+                "d": "Volume, mass, and density"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which gas law states that the volume of a gas is directly proportional to its temperature at constant pressure?",
+            "options": {
+                "a": "Boyle's Law",
+                "b": "Charles's Law",
+                "c": "Avogadro's Law",
+                "d": "Gay-Lussac's Law"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The ideal gas law is represented by the equation:",
+            "options": {
+                "a": "PV = nRT",
+                "b": "P1V1 = P2V2",
+                "c": "V1/T1 = V2/T2",
+                "d": "PV/T = k"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The process by which a gas turns into a liquid is called:",
+            "options": {
+                "a": "Sublimation",
+                "b": "Condensation",
+                "c": "Evaporation",
+                "d": "Deposition"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of a covalent network solid?",
+            "options": {
+                "a": "NaCl",
+                "b": "H2O",
+                "c": "Diamond",
+                "d": "CO2"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is not a property of liquids?",
+            "options": {
+                "a": "Definite shape",
+                "b": "Definite volume",
+                "c": "Incompressibility",
+                "d": "Ability to flow"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Chemical equilibrium occurs when:",
+            "options": {
+                "a": "Reactants are completely converted to products",
+                "b": "The rate of the forward reaction equals the rate of the reverse reaction",
+                "c": "The concentrations of reactants and products are equal",
+                "d": "The reaction stops"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Le Chatelier's principle states that a system at equilibrium will:",
+            "options": {
+                "a": "Remain unchanged",
+                "b": "Shift to counteract any disturbance",
+                "c": "Shift to favor the reverse reaction",
+                "d": "Shift to favor the forward reaction"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Acids produce which ion in solution?",
+            "options": {
+                "a": "OH-",
+                "b": "H+",
+                "c": "Na+",
+                "d": "Cl-"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Bases produce which ion in solution?",
+            "options": {
+                "a": "OH-",
+                "b": "H+",
+                "c": "Na+",
+                "d": "Cl-"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A neutralization reaction between an acid and a base produces:",
+            "options": {
+                "a": "Salt and water",
+                "b": "Water and oxygen",
+                "c": "Carbon dioxide and water",
+                "d": "Salt and hydrogen gas"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The pH scale measures the concentration of:",
+            "options": {
+                "a": "Hydroxide ions",
+                "b": "Hydrogen ions",
+                "c": "Sodium ions",
+                "d": "Chloride ions"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following acids is a strong acid?",
+            "options": {
+                "a": "Acetic acid",
+                "b": "Hydrochloric acid",
+                "c": "Formic acid",
+                "d": "Lactic acid"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The rate of a chemical reaction can be increased by:",
+            "options": {
+                "a": "Decreasing temperature",
+                "b": "Increasing concentration of reactants",
+                "c": "Adding an inhibitor",
+                "d": "Decreasing surface area of reactants"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The activation energy of a reaction is the:",
+            "options": {
+                "a": "Energy released during the reaction",
+                "b": "Energy required to start the reaction",
+                "c": "Energy absorbed during the reaction",
+                "d": "Energy needed to break bonds"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following factors does not affect the rate of a chemical reaction?",
+            "options": {
+                "a": "Concentration",
+                "b": "Temperature",
+                "c": "Presence of a catalyst",
+                "d": "Color of reactants"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "A solution is defined as:",
+            "options": {
+                "a": "A heterogeneous mixture",
+                "b": "A homogeneous mixture",
+                "c": "A compound",
+                "d": "An element"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The solubility of a gas in a liquid decreases with:",
+            "options": {
+                "a": "Increasing temperature",
+                "b": "Decreasing temperature",
+                "c": "Increasing pressure",
+                "d": "Decreasing pressure"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A colloid is a mixture in which:",
+            "options": {
+                "a": "Particles settle out over time",
+                "b": "Particles are uniformly distributed",
+                "c": "Particles are large enough to be seen",
+                "d": "Particles are evenly dispersed and do not settle"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following is an example of a colloid?",
+            "options": {
+                "a": "Salt water",
+                "b": "Sand and water",
+                "c": "Whipped cream",
+                "d": "Sugar solution"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The Tyndall effect is observed in:",
+            "options": {
+                "a": "Solutions",
+                "b": "Suspensions",
+                "c": "Colloids",
+                "d": "Pure substances"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is an example of an exothermic reaction?",
+            "options": {
+                "a": "Melting ice",
+                "b": "Evaporation",
+                "c": "Combustion of fuel",
+                "d": "Photosynthesis"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "In an endothermic reaction, heat is:",
+            "options": {
+                "a": "Absorbed from the surroundings",
+                "b": "Released to the surroundings",
+                "c": "Neither absorbed nor released",
+                "d": "Converted to light"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The enthalpy change of a reaction is represented by:",
+            "options": {
+                "a": "ΔG",
+                "b": "ΔS",
+                "c": "ΔH",
+                "d": "ΔE"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following elements is most electronegative?",
+            "options": {
+                "a": "Fluorine",
+                "b": "Oxygen",
+                "c": "Nitrogen",
+                "d": "Chlorine"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The atomic number of an element represents the number of:",
+            "options": {
+                "a": "Protons",
+                "b": "Neutrons",
+                "c": "Electrons",
+                "d": "Valence electrons"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a property of ionic compounds?",
+            "options": {
+                "a": "Low melting point",
+                "b": "Good conductor of electricity",
+                "c": "Malleable",
+                "d": "Poor conductor of heat"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a halogen?",
+            "options": {
+                "a": "Helium",
+                "b": "Oxygen",
+                "c": "Fluorine",
+                "d": "Nitrogen"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which type of reaction involves the exchange of ions between two compounds?",
+            "options": {
+                "a": "Synthesis",
+                "b": "Decomposition",
+                "c": "Single replacement",
+                "d": "Double replacement"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following is an example of a synthesis reaction?",
+            "options": {
+                "a": "H2 + O2 → H2O",
+                "b": "NaCl → Na + Cl2",
+                "c": "Zn + HCl → ZnCl2 + H2",
+                "d": "AgNO3 + NaCl → AgCl + NaNO3"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is not a characteristic of metals?",
+            "options": {
+                "a": "High electrical conductivity",
+                "b": "Brittleness",
+                "c": "Luster",
+                "d": "Malleability"
+            },
+            "answer": "b"
+        }
+    ],
+    "Physics": [
+        {
+            "question": "Which of the following is a base SI unit?",
+            "options": {
+                "a": "Liter",
+                "b": "Gram",
+                "c": "Meter",
+                "d": "Celsius"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The SI unit of force is:",
+            "options": {
+                "a": "Joule",
+                "b": "Newton",
+                "c": "Pascal",
+                "d": "Watt"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following quantities is a vector?",
+            "options": {
+                "a": "Speed",
+                "b": "Distance",
+                "c": "Displacement",
+                "d": "Temperature"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The unit of power is:",
+            "options": {
+                "a": "Joule",
+                "b": "Watt",
+                "c": "Newton",
+                "d": "Coulomb"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The slope of a velocity-time graph represents:",
+            "options": {
+                "a": "Displacement",
+                "b": "Speed",
+                "c": "Acceleration",
+                "d": "Momentum"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is not a scalar quantity?",
+            "options": {
+                "a": "Speed",
+                "b": "Velocity",
+                "c": "Distance",
+                "d": "Time"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Newton's First Law is also known as the law of:",
+            "options": {
+                "a": "Action and reaction",
+                "b": "Inertia",
+                "c": "Force",
+                "d": "Acceleration"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The centripetal force acting on an object moving in a circular path is directed:",
+            "options": {
+                "a": "Tangentially to the path",
+                "b": "Away from the center",
+                "c": "Towards the center",
+                "d": "Vertically downward"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The work done by a force is zero if the force and displacement are:",
+            "options": {
+                "a": "Perpendicular",
+                "b": "Parallel",
+                "c": "In the same direction",
+                "d": "In opposite directions"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The unit of energy is:",
+            "options": {
+                "a": "Newton",
+                "b": "Pascal",
+                "c": "Joule",
+                "d": "Watt"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Potential energy is the energy possessed by an object due to its:",
+            "options": {
+                "a": "Motion",
+                "b": "Position",
+                "c": "Temperature",
+                "d": "Mass"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Bernoulli's principle is based on the conservation of:",
+            "options": {
+                "a": "Mass",
+                "b": "Energy",
+                "c": "Momentum",
+                "d": "Charge"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The continuity equation for fluid flow is derived from the conservation of:",
+            "options": {
+                "a": "Energy",
+                "b": "Mass",
+                "c": "Momentum",
+                "d": "Velocity"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The pressure in a fluid at rest is:",
+            "options": {
+                "a": "Equal in all directions",
+                "b": "Greater in the direction of flow",
+                "c": "Less in the direction of flow",
+                "d": "Greater vertically downward"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The electric field around a positive point charge is directed:",
+            "options": {
+                "a": "Towards the charge",
+                "b": "Away from the charge",
+                "c": "Circularly around the charge",
+                "d": "Randomly"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The capacitance of a capacitor is measured in:",
+            "options": {
+                "a": "Farads",
+                "b": "Coulombs",
+                "c": "Volts",
+                "d": "Watts"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Ohm's Law is represented by the equation:",
+            "options": {
+                "a": "V = IR",
+                "b": "P = IV",
+                "c": "Q = CV",
+                "d": "F = ma"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The time period of a simple harmonic oscillator is given by:",
+            "options": {
+                "a": "T = 2π√(m/k)",
+                "b": "T = 2π√(k/m)",
+                "c": "T = 2π√(m/g)",
+                "d": "T = 2π√(g/m)"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The speed of sound in air is approximately:",
+            "options": {
+                "a": "330 m/s",
+                "b": "220 m/s",
+                "c": "110 m/s",
+                "d": "440 m/s"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The phenomenon of light bending as it passes from one medium to another is called:",
+            "options": {
+                "a": "Reflection",
+                "b": "Refraction",
+                "c": "Diffraction",
+                "d": "Interference"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The unit of frequency is:",
+            "options": {
+                "a": "Hertz",
+                "b": "Newton",
+                "c": "Joule",
+                "d": "Watt"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a longitudinal wave?",
+            "options": {
+                "a": "Light wave",
+                "b": "Sound wave",
+                "c": "Water wave",
+                "d": "Radio wave"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The angle of incidence is equal to the angle of reflection according to the law of:",
+            "options": {
+                "a": "Refraction",
+                "b": "Diffraction",
+                "c": "Interference",
+                "d": "Reflection"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "The lens used to correct nearsightedness is:",
+            "options": {
+                "a": "Convex lens",
+                "b": "Concave lens",
+                "c": "Cylindrical lens",
+                "d": "Planar lens"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The principle of superposition is used to explain the:",
+            "options": {
+                "a": "Reflection of waves",
+                "b": "Refraction of waves",
+                "c": "Interference of waves",
+                "d": "Diffraction of waves"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following particles has a negative charge?",
+            "options": {
+                "a": "Proton",
+                "b": "Neutron",
+                "c": "Electron",
+                "d": "Photon"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The magnetic field around a current-carrying conductor is:",
+            "options": {
+                "a": "Circular",
+                "b": "Straight",
+                "c": "Elliptical",
+                "d": "Random"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The force between two point charges is given by:",
+            "options": {
+                "a": "F = kq1q2/r^2",
+                "b": "F = qE",
+                "c": "F = qvB",
+                "d": "F = Gm1m2/r^2"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The energy stored in a capacitor is given by:",
+            "options": {
+                "a": "E = QV",
+                "b": "E = 1/2 CV^2",
+                "c": "E = 1/2 mv^2",
+                "d": "E = Q^2/2C"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The total resistance in a series circuit is:",
+            "options": {
+                "a": "Sum of individual resistances",
+                "b": "Product of individual resistances",
+                "c": "Inverse of sum of reciprocals of individual resistances",
+                "d": "Equal to the largest resistance"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a unit of electric potential?",
+            "options": {
+                "a": "Watt",
+                "b": "Volt",
+                "c": "Ohm",
+                "d": "Coulomb"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The work done in moving a charge in an electric field is given by:",
+            "options": {
+                "a": "W = qV",
+                "b": "W = qE",
+                "c": "W = Fd",
+                "d": "W = 1/2 mv^2"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The unit of capacitance is:",
+            "options": {
+                "a": "Ohm",
+                "b": "Farad",
+                "c": "Henry",
+                "d": "Tesla"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The potential energy of a charged particle in an electric field is:",
+            "options": {
+                "a": "Proportional to its velocity",
+                "b": "Proportional to the square of its charge",
+                "c": "Proportional to its charge",
+                "d": "Independent of its charge"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The electric flux through a closed surface is proportional to the:",
+            "options": {
+                "a": "Electric field",
+                "b": "Charge enclosed",
+                "c": "Area of the surface",
+                "d": "Volume of the surface"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The unit of magnetic flux is:",
+            "options": {
+                "a": "Weber",
+                "b": "Tesla",
+                "c": "Gauss",
+                "d": "Henry"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The phenomenon of electromagnetic induction was discovered by:",
+            "options": {
+                "a": "Faraday",
+                "b": "Maxwell",
+                "c": "Newton",
+                "d": "Einstein"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The direction of induced current in a conductor moving through a magnetic field is given by:",
+            "options": {
+                "a": "Lenz's Law",
+                "b": "Ohm's Law",
+                "c": "Ampere's Law",
+                "d": "Faraday's Law"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The time period of a pendulum is directly proportional to the square root of its:",
+            "options": {
+                "a": "Length",
+                "b": "Mass",
+                "c": "Amplitude",
+                "d": "Frequency"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The principle of conservation of momentum states that the total momentum of a closed system is:",
+            "options": {
+                "a": "Constant",
+                "b": "Increasing",
+                "c": "Decreasing",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The velocity of an object in uniform circular motion is:",
+            "options": {
+                "a": "Constant",
+                "b": "Changing direction",
+                "c": "Changing magnitude",
+                "d": "Zero"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The ratio of the circumference of a circle to its diameter is:",
+            "options": {
+                "a": "Pi",
+                "b": "Euler's number",
+                "c": "Golden ratio",
+                "d": "Planck's constant"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a unit of angular velocity?",
+            "options": {
+                "a": "Radian",
+                "b": "Radian per second",
+                "c": "Degree",
+                "d": "Revolution"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The torque on an object is given by:",
+            "options": {
+                "a": "T = Fd",
+                "b": "T = Fr",
+                "c": "T = Fv",
+                "d": "T = Ft"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The kinetic energy of a rotating object is given by:",
+            "options": {
+                "a": "K = 1/2 mv^2",
+                "b": "K = 1/2 Iω^2",
+                "c": "K = mgh",
+                "d": "K = 1/2 kx^2"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The force of attraction between two masses is given by:",
+            "options": {
+                "a": "F = Gm1m2/r^2",
+                "b": "F = kq1q2/r^2",
+                "c": "F = ma",
+                "d": "F = mv"
+            },
+            "answer": "a"
+        }
+    ],
+    "English": [
+        {
+            "question": "Which of the following is a synonym of 'exacerbate'?",
+            "options": {
+                "a": "Alleviate",
+                "b": "Worsen",
+                "c": "Simplify",
+                "d": "Reduce"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following words is misspelled?",
+            "options": {
+                "a": "Accommodate",
+                "b": "Foreseeable",
+                "c": "Occured",
+                "d": "Recommend"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The phrase 'raining cats and dogs' is an example of:",
+            "options": {
+                "a": "Simile",
+                "b": "Metaphor",
+                "c": "Personification",
+                "d": "Idiom"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following sentences is grammatically correct?",
+            "options": {
+                "a": "She don't like apples.",
+                "b": "She doesn't like apples.",
+                "c": "She didn't liked apples.",
+                "d": "She not like apples."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an antonym of 'obscure'?",
+            "options": {
+                "a": "Ambiguous",
+                "b": "Clear",
+                "c": "Vague",
+                "d": "Hidden"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The word 'loquacious' means:",
+            "options": {
+                "a": "Silent",
+                "b": "Talkative",
+                "c": "Boring",
+                "d": "Brief"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a homophone of 'pair'?",
+            "options": {
+                "a": "Pare",
+                "b": "Pear",
+                "c": "Pier",
+                "d": "Peer"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which sentence uses the correct form of 'there', 'their', or 'they're'?",
+            "options": {
+                "a": "Their going to the park later.",
+                "b": "They're house is very nice.",
+                "c": "There are many books on the shelf.",
+                "d": "We can meet at there house."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a conjunction?",
+            "options": {
+                "a": "Quickly",
+                "b": "But",
+                "c": "Happiness",
+                "d": "Under"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Identify the adverb in the following sentence: 'She sang beautifully.'",
+            "options": {
+                "a": "She",
+                "b": "Sang",
+                "c": "Beautifully",
+                "d": "None"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following words is a verb?",
+            "options": {
+                "a": "Run",
+                "b": "Book",
+                "c": "Happiness",
+                "d": "Beautiful"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "I could of gone to the store.",
+                "b": "I could have gone to the store.",
+                "c": "I could gone to the store.",
+                "d": "I could off gone to the store."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The word 'benevolent' means:",
+            "options": {
+                "a": "Kind",
+                "b": "Cruel",
+                "c": "Ignorant",
+                "d": "Weak"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following sentences is in passive voice?",
+            "options": {
+                "a": "The cat chased the mouse.",
+                "b": "The mouse was chased by the cat.",
+                "c": "The dog barked loudly.",
+                "d": "She writes a letter."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a compound word?",
+            "options": {
+                "a": "House",
+                "b": "Basketball",
+                "c": "Beautiful",
+                "d": "Quickly"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Identify the preposition in the following sentence: 'The book is on the table.'",
+            "options": {
+                "a": "Book",
+                "b": "On",
+                "c": "Table",
+                "d": "Is"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following words is an adjective?",
+            "options": {
+                "a": "Quickly",
+                "b": "Happiness",
+                "c": "Beautiful",
+                "d": "Run"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Choose the correct form of the verb: 'She _____ to the store.'",
+            "options": {
+                "a": "Go",
+                "b": "Goes",
+                "c": "Going",
+                "d": "Went"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The word 'facetious' means:",
+            "options": {
+                "a": "Serious",
+                "b": "Humorous",
+                "c": "Angry",
+                "d": "Sad"
+            },
+            "answer": "b"
+        }
+    ]
+}

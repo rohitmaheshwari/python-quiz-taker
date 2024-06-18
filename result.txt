@@ -1,0 +1,13 @@
+biology
+1 0 1
+
+for now, don't write the code, just tell me the result
+
+suppose for this the correct answer is c which is Peptide bond
+and I chosen "Question 1: Incorrect (Your answer: Peptide bond, Correct answer: c)"
+you can select my answer from youranswer: Peptide bond
+
+both are ssame so 1 point
+
+
+check like this and tell me the of each subject and then total result

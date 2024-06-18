@@ -1,0 +1,1006 @@
+Total Score: 186 / 200
+Biology: 64 / 68
+Question: Which type of bond is primarily responsible for the secondary structure of proteins?
+Your answer: b - Hydrogen bonds
+Correct answer: b - Hydrogen bonds
+Result: Correct
+
+Question: Which of the following is a common characteristic of allosteric enzymes?
+Your answer: b - Their activity can be regulated by binding of a molecule at a site other than the active site.
+Correct answer: b - Their activity can be regulated by binding of a molecule at a site other than the active site.
+Result: Correct
+
+Question: Which cellular organelle is directly involved in the synthesis of ATP?
+Your answer: c - Mitochondrion
+Correct answer: c - Mitochondrion
+Result: Correct
+
+Question: In glycolysis, which enzyme catalyzes the conversion of glucose to glucose-6-phosphate?
+Your answer: a - Hexokinase
+Correct answer: a - Hexokinase
+Result: Correct
+
+Question: Which virus is known to integrate its DNA into the host genome as part of its replication cycle?
+Your answer: b - HIV
+Correct answer: b - HIV
+Result: Correct
+
+Question: Which structure is present in prokaryotic cells but not in eukaryotic cells?
+Your answer: b - Nucleoid
+Correct answer: b - Nucleoid
+Result: Correct
+
+Question: Which group of fungi includes species that form mutualistic relationships with plant roots?
+Your answer: d - Glomeromycetes
+Correct answer: d - Glomeromycetes
+Result: Correct
+
+Question: Which type of vascular tissue in plants is responsible for the transport of water and minerals from the roots to the rest of the plant?
+Your answer: b - Xylem
+Correct answer: b - Xylem
+Result: Correct
+
+Question: Which phylum of animals is characterized by the presence of a notochord at some stage of development?
+Your answer: c - Chordata
+Correct answer: c - Chordata
+Result: Correct
+
+Question: In which part of the plant does photosynthesis primarily occur?
+Your answer: b - Leaves
+Correct answer: b - Leaves
+Result: Correct
+
+Question: Which macromolecule is primarily digested in the stomach?
+Your answer: b - Proteins
+Correct answer: b - Proteins
+Result: Correct
+
+Question: Which component of the immune system is responsible for producing antibodies?
+Your answer: b - B cells
+Correct answer: b - B cells
+Result: Correct
+
+Question: Which of the following gases is exchanged for oxygen in the alveoli of the lungs?
+Your answer: a - Carbon dioxide
+Correct answer: a - Carbon dioxide
+Result: Correct
+
+Question: Which of the following is a key difference between DNA and RNA?
+Your answer: c - DNA contains thymine, while RNA contains uracil.
+Correct answer: c - DNA contains thymine, while RNA contains uracil.
+Result: Correct
+
+Question: Which process involves the movement of water across a selectively permeable membrane?
+Your answer: b - Osmosis
+Correct answer: b - Osmosis
+Result: Correct
+
+Question: Which phase of the cell cycle is characterized by the replication of DNA?
+Your answer: b - S phase
+Correct answer: b - S phase
+Result: Correct
+
+Question: Which enzyme is responsible for unwinding the DNA double helix during replication?
+Your answer: b - Helicase
+Correct answer: b - Helicase
+Result: Correct
+
+Question: Which type of mutation involves the addition of one or more nucleotide bases into the DNA sequence?
+Your answer: b - Insertion
+Correct answer: b - Insertion
+Result: Correct
+
+Question: Which cellular structure is responsible for protein synthesis?
+Your answer: c - Ribosome
+Correct answer: c - Ribosome
+Result: Correct
+
+Question: In which cellular organelle does the citric acid cycle occur?
+Your answer: b - Mitochondrion
+Correct answer: b - Mitochondrion
+Result: Correct
+
+Question: Which process describes the uptake of extracellular fluid by a cell?
+Your answer: c - Exocytosis
+Correct answer: b - Pinocytosis
+Result: Incorrect
+
+Question: Which hormone is responsible for regulating blood glucose levels by promoting the uptake of glucose into cells?
+Your answer: b - Insulin
+Correct answer: b - Insulin
+Result: Correct
+
+Question: Which type of natural selection favors individuals with extreme phenotypes at both ends of the spectrum?
+Your answer: c - Disruptive selection
+Correct answer: c - Disruptive selection
+Result: Correct
+
+Question: Which of the following is the primary site of gas exchange in plants?
+Your answer: a - Stomata
+Correct answer: a - Stomata
+Result: Correct
+
+Question: Which term describes the evolutionary process by which a species becomes better suited to its environment?
+Your answer: b - Adaptation
+Correct answer: b - Adaptation
+Result: Correct
+
+Question: Which structure in the human body is primarily responsible for filtering blood to form urine?
+Your answer: b - Kidney
+Correct answer: b - Kidney
+Result: Correct
+
+Question: Which of the following is a characteristic of active transport?
+Your answer: a - It requires energy input from the cell.
+Correct answer: a - It requires energy input from the cell.
+Result: Correct
+
+Question: Which part of the brain is responsible for coordinating voluntary muscle movements?
+Your answer: b - Cerebellum
+Correct answer: b - Cerebellum
+Result: Correct
+
+Question: Which phase of meiosis is characterized by the separation of homologous chromosomes?
+Your answer: d - Telophase I
+Correct answer: c - Anaphase I
+Result: Incorrect
+
+Question: Which type of RNA carries the genetic information from DNA to the ribosome?
+Your answer: a - mRNA
+Correct answer: a - mRNA
+Result: Correct
+
+Question: Which hormone is primarily involved in the regulation of the menstrual cycle?
+Your answer: b - Progesterone
+Correct answer: b - Progesterone
+Result: Correct
+
+Question: Which part of the neuron receives incoming signals?
+Your answer: b - Dendrite
+Correct answer: b - Dendrite
+Result: Correct
+
+Question: Which molecule acts as the final electron acceptor in the electron transport chain?
+Your answer: c - Oxygen
+Correct answer: c - Oxygen
+Result: Correct
+
+Question: Which cellular process results in the formation of two identical daughter cells?
+Your answer: b - Mitosis
+Correct answer: b - Mitosis
+Result: Correct
+
+Question: Which type of immunity is acquired through vaccination?
+Your answer: c - Active immunity
+Correct answer: c - Active immunity
+Result: Correct
+
+Question: Which process is responsible for the formation of gametes in animals?
+Your answer: b - Meiosis
+Correct answer: b - Meiosis
+Result: Correct
+
+Question: Which of the following best describes the role of ribosomes in cells?
+Your answer: d - They assemble proteins.
+Correct answer: d - They assemble proteins.
+Result: Correct
+
+Question: Which component of the cardiovascular system is primarily responsible for the exchange of nutrients and waste products between blood and tissues?
+Your answer: c - Capillaries
+Correct answer: c - Capillaries
+Result: Correct
+
+Question: Which of the following processes occurs during transcription?
+Your answer: b - RNA is synthesized from a DNA template.
+Correct answer: b - RNA is synthesized from a DNA template.
+Result: Correct
+
+Question: Which part of the human brain is responsible for regulating homeostasis?
+Your answer: d - Hypothalamus
+Correct answer: d - Hypothalamus
+Result: Correct
+
+Question: Which of the following is a characteristic of DNA replication in eukaryotic cells?
+Your answer: b - It is semiconservative.
+Correct answer: b - It is semiconservative.
+Result: Correct
+
+Question: Which enzyme is responsible for catalyzing the synthesis of ATP during oxidative phosphorylation?
+Your answer: c - ATP synthase
+Correct answer: c - ATP synthase
+Result: Correct
+
+Question: Which of the following is an example of a density-dependent factor that can influence population growth?
+Your answer: c - Food availability
+Correct answer: c - Food availability
+Result: Correct
+
+Question: Which process is responsible for the formation of mRNA from a DNA template?
+Your answer: c - Transcription
+Correct answer: c - Transcription
+Result: Correct
+
+Question: Which of the following is the primary function of the small intestine?
+Your answer: b - Absorption of nutrients
+Correct answer: b - Absorption of nutrients
+Result: Correct
+
+Question: Which part of the cell is responsible for packaging and modifying proteins for transport?
+Your answer: c - Golgi apparatus
+Correct answer: c - Golgi apparatus
+Result: Correct
+
+Question: Which of the following best describes the role of the epiglottis during swallowing?
+Your answer: a - It covers the trachea to prevent food from entering the airway.
+Correct answer: a - It covers the trachea to prevent food from entering the airway.
+Result: Correct
+
+Question: Which molecule is the final electron acceptor in the process of aerobic respiration?
+Your answer: a - Oxygen
+Correct answer: a - Oxygen
+Result: Correct
+
+Question: Which of the following is a function of the large intestine?
+Your answer: c - Absorption of water
+Correct answer: c - Absorption of water
+Result: Correct
+
+Question: Which of the following describes the function of the myelin sheath?
+Your answer: b - It insulates axons and speeds up nerve impulses.
+Correct answer: b - It insulates axons and speeds up nerve impulses.
+Result: Correct
+
+Question: Which phase of the cell cycle involves the division of the cytoplasm?
+Your answer: c - Cytokinesis
+Correct answer: c - Cytokinesis
+Result: Correct
+
+Question: Which of the following best describes the function of hemoglobin in red blood cells?
+Your answer: b - It transports oxygen.
+Correct answer: b - It transports oxygen.
+Result: Correct
+
+Question: Which type of cell division results in four genetically unique daughter cells?
+Your answer: b - Meiosis
+Correct answer: b - Meiosis
+Result: Correct
+
+Question: Which molecule is primarily responsible for storing genetic information?
+Your answer: c - DNA
+Correct answer: c - DNA
+Result: Correct
+
+Question: Which of the following best describes the process of photosynthesis?
+Your answer: b - Conversion of light energy into chemical energy
+Correct answer: b - Conversion of light energy into chemical energy
+Result: Correct
+
+Question: Which of the following structures is found in plant cells but not in animal cells?
+Your answer: c - Chloroplasts
+Correct answer: c - Chloroplasts
+Result: Correct
+
+Question: Which type of macromolecule is composed of amino acids?
+Your answer: b - Proteins
+Correct answer: b - Proteins
+Result: Correct
+
+Question: Which of the following best describes the role of tRNA during protein synthesis?
+Your answer: a - It carries amino acids to the ribosome.
+Correct answer: a - It carries amino acids to the ribosome.
+Result: Correct
+
+Question: Which of the following processes generates the greatest amount of ATP during cellular respiration?
+Your answer: c - Oxidative phosphorylation
+Correct answer: c - Oxidative phosphorylation
+Result: Correct
+
+Question: Which of the following structures is responsible for the production of cerebrospinal fluid?
+Your answer: b - Choroid plexus
+Correct answer: b - Choroid plexus
+Result: Correct
+
+Question: Which type of selection occurs when individuals with intermediate phenotypes are favored over those with extreme phenotypes?
+Your answer: d - Balancing selection
+Correct answer: b - Stabilizing selection
+Result: Incorrect
+
+Question: Which of the following is the primary function of the lymphatic system?
+Your answer: c - Return interstitial fluid to the bloodstream
+Correct answer: c - Return interstitial fluid to the bloodstream
+Result: Correct
+
+Question: Which phase of the cell cycle involves the synthesis of DNA?
+Your answer: b - S phase
+Correct answer: b - S phase
+Result: Correct
+
+Question: Which of the following best describes the function of the enzyme amylase?
+Your answer: c - It breaks down starch into sugars.
+Correct answer: c - It breaks down starch into sugars.
+Result: Correct
+
+Question: Which of the following is a characteristic of cancer cells?
+Your answer: d - They can metastasize to other tissues.
+Correct answer: d - They can metastasize to other tissues.
+Result: Correct
+
+Question: Which part of the brain is primarily responsible for regulating the endocrine system?
+Your answer: c - Hypothalamus
+Correct answer: c - Hypothalamus
+Result: Correct
+
+Question: Which type of RNA is involved in splicing introns from pre-mRNA?
+Your answer: c - rRNA
+Correct answer: d - snRNA
+Result: Incorrect
+
+Question: Which process describes the conversion of nitrogen gas into ammonia by bacteria?
+Your answer: c - Nitrogen fixation
+Correct answer: c - Nitrogen fixation
+Result: Correct
+
+Chemistry: 51 / 54
+Question: Which of the following compounds exhibits resonance?
+Your answer: b - CO₂
+Correct answer: c - NO₃⁻
+Result: Incorrect
+
+Question: Which quantum number determines the shape of an orbital?
+Your answer: b - Angular momentum quantum number (l)
+Correct answer: b - Angular momentum quantum number (l)
+Result: Correct
+
+Question: Which of the following is the best description of a sigma bond?
+Your answer: b - A bond formed by the head-on overlap of atomic orbitals
+Correct answer: b - A bond formed by the head-on overlap of atomic orbitals
+Result: Correct
+
+Question: What is the primary intermolecular force present in hydrogen fluoride (HF)?
+Your answer: c - Hydrogen bonding
+Correct answer: c - Hydrogen bonding
+Result: Correct
+
+Question: Which of the following gases will have the highest root mean square speed at the same temperature?
+Your answer: c - H₂
+Correct answer: c - H₂
+Result: Correct
+
+Question: Which law states that the total pressure of a mixture of gases is equal to the sum of the partial pressures of each individual gas?
+Your answer: c - Dalton's Law
+Correct answer: c - Dalton's Law
+Result: Correct
+
+Question: Which process involves the phase change from a liquid to a gas?
+Your answer: c - Evaporation
+Correct answer: c - Evaporation
+Result: Correct
+
+Question: What is the term for the energy change that occurs when a mole of ionic solid is separated into its constituent ions in the gas phase?
+Your answer: a - Lattice energy
+Correct answer: a - Lattice energy
+Result: Correct
+
+Question: Which of the following solutions has the highest pH?
+Your answer: b - 0.1 M NaOH
+Correct answer: b - 0.1 M NaOH
+Result: Correct
+
+Question: Which of the following statements is true regarding chemical equilibrium?
+Your answer: b - The rates of the forward and reverse reactions are equal.
+Correct answer: b - The rates of the forward and reverse reactions are equal.
+Result: Correct
+
+Question: Which of the following compounds is most likely to act as a Lewis acid?
+Your answer: b - BF₃
+Correct answer: b - BF₃
+Result: Correct
+
+Question: Which of the following reactions is an example of an oxidation-reduction reaction?
+Your answer: a - H₂ + I₂ → 2HI
+Correct answer: a - H₂ + I₂ → 2HI
+Result: Correct
+
+Question: Which of the following is the rate-determining step in a reaction mechanism?
+Your answer: c - The step with the highest activation energy
+Correct answer: c - The step with the highest activation energy
+Result: Correct
+
+Question: What is the term for the measure of the disorder or randomness of a system?
+Your answer: b - Entropy
+Correct answer: b - Entropy
+Result: Correct
+
+Question: Which of the following is true about a spontaneous reaction at constant temperature and pressure?
+Your answer: b - ΔG > 0
+Correct answer: a - ΔG < 0
+Result: Incorrect
+
+Question: Which of the following best describes a buffer solution?
+Your answer: a - A solution that resists changes in pH upon the addition of small amounts of acid or base
+Correct answer: a - A solution that resists changes in pH upon the addition of small amounts of acid or base
+Result: Correct
+
+Question: Which element is most likely to form an ionic compound with chlorine?
+Your answer: c - Potassium
+Correct answer: c - Potassium
+Result: Correct
+
+Question: Which of the following describes the hybridization of the carbon atoms in ethene (C₂H₄)?
+Your answer: b - sp²
+Correct answer: b - sp²
+Result: Correct
+
+Question: What is the empirical formula of a compound that is 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?
+Your answer: a - CH₂O
+Correct answer: a - CH₂O
+Result: Correct
+
+Question: Which type of crystal structure is typically exhibited by metals?
+Your answer: c - Metallic
+Correct answer: c - Metallic
+Result: Correct
+
+Question: Which of the following molecules is polar?
+Your answer: c - BF₃
+Correct answer: d - NH₃
+Result: Incorrect
+
+Question: Which principle states that no two electrons in an atom can have the same set of four quantum numbers?
+Your answer: a - Pauli Exclusion Principle
+Correct answer: a - Pauli Exclusion Principle
+Result: Correct
+
+Question: Which of the following is a state function?
+Your answer: c - Enthalpy
+Correct answer: c - Enthalpy
+Result: Correct
+
+Question: Which type of reaction is represented by the equation: AB → A + B?
+Your answer: b - Decomposition
+Correct answer: b - Decomposition
+Result: Correct
+
+Question: Which element has the highest electronegativity?
+Your answer: c - Fluorine
+Correct answer: c - Fluorine
+Result: Correct
+
+Question: Which gas law relates the volume and temperature of a gas at constant pressure?
+Your answer: b - Charles's Law
+Correct answer: b - Charles's Law
+Result: Correct
+
+Question: Which of the following is the weakest type of intermolecular force?
+Your answer: d - London dispersion forces
+Correct answer: d - London dispersion forces
+Result: Correct
+
+Question: Which compound is expected to have the highest boiling point?
+Your answer: b - H₂O
+Correct answer: b - H₂O
+Result: Correct
+
+Question: Which process is used to separate a mixture based on differences in boiling points?
+Your answer: b - Distillation
+Correct answer: b - Distillation
+Result: Correct
+
+Question: Which type of bond forms between the carbon and oxygen atoms in carbon monoxide (CO)?
+Your answer: c - Triple bond
+Correct answer: c - Triple bond
+Result: Correct
+
+Question: Which of the following elements has the smallest atomic radius?
+Your answer: b - Chlorine
+Correct answer: b - Chlorine
+Result: Correct
+
+Question: Which of the following is a characteristic of a strong acid?
+Your answer: c - It completely ionizes in solution.
+Correct answer: c - It completely ionizes in solution.
+Result: Correct
+
+Question: Which type of reaction involves the transfer of electrons between reactants?
+Your answer: c - Oxidation-reduction reaction
+Correct answer: c - Oxidation-reduction reaction
+Result: Correct
+
+Question: Which of the following best describes a catalyst?
+Your answer: b - It decreases the activation energy of a reaction.
+Correct answer: b - It decreases the activation energy of a reaction.
+Result: Correct
+
+Question: Which of the following molecules has a linear geometry?
+Your answer: b - CO₂
+Correct answer: b - CO₂
+Result: Correct
+
+Question: Which of the following is the correct formula for calculating the equilibrium constant (K) for a reaction?
+Your answer: a - K = [products] / [reactants]
+Correct answer: a - K = [products] / [reactants]
+Result: Correct
+
+Question: Which of the following compounds is insoluble in water?
+Your answer: c - AgCl
+Correct answer: c - AgCl
+Result: Correct
+
+Question: Which of the following is a characteristic of a polar covalent bond?
+Your answer: c - Unequal sharing of electrons
+Correct answer: c - Unequal sharing of electrons
+Result: Correct
+
+Question: Which of the following describes the effect of increasing temperature on the rate of a chemical reaction?
+Your answer: c - The rate increases.
+Correct answer: c - The rate increases.
+Result: Correct
+
+Question: Which type of hybridization is exhibited by the carbon atoms in ethane (C₂H₆)?
+Your answer: c - sp³
+Correct answer: c - sp³
+Result: Correct
+
+Question: Which of the following best describes the nature of the bond in a molecule of oxygen (O₂)?
+Your answer: b - Double bond
+Correct answer: b - Double bond
+Result: Correct
+
+Question: Which element is most likely to form a cation with a +2 charge?
+Your answer: b - Magnesium
+Correct answer: b - Magnesium
+Result: Correct
+
+Question: Which of the following is a characteristic of a reversible reaction?
+Your answer: b - It reaches equilibrium when the rates of the forward and reverse reactions are equal.
+Correct answer: b - It reaches equilibrium when the rates of the forward and reverse reactions are equal.
+Result: Correct
+
+Question: Which of the following best describes an endothermic reaction?
+Your answer: b - It absorbs heat.
+Correct answer: b - It absorbs heat.
+Result: Correct
+
+Question: Which of the following best describes the process of sublimation?
+Your answer: d - Solid to gas
+Correct answer: d - Solid to gas
+Result: Correct
+
+Question: Which type of intermolecular force is present in all molecular substances, regardless of polarity?
+Your answer: c - London dispersion forces
+Correct answer: c - London dispersion forces
+Result: Correct
+
+Question: Which of the following is true about the equilibrium constant (K) for an exothermic reaction if the temperature is increased?
+Your answer: b - K decreases
+Correct answer: b - K decreases
+Result: Correct
+
+Question: Which of the following best describes the role of a catalyst in a chemical reaction?
+Your answer: c - It decreases the activation energy of the reaction.
+Correct answer: c - It decreases the activation energy of the reaction.
+Result: Correct
+
+Question: Which of the following best describes the structure of benzene (C₆H₆)?
+Your answer: d - A hexagon with delocalized π electrons
+Correct answer: d - A hexagon with delocalized π electrons
+Result: Correct
+
+Question: Which of the following best describes the nature of the bonding in sodium chloride (NaCl)?
+Your answer: b - Ionic
+Correct answer: b - Ionic
+Result: Correct
+
+Question: Which of the following best describes the hybridization of carbon in methane (CH₄)?
+Your answer: c - sp³
+Correct answer: c - sp³
+Result: Correct
+
+Question: Which of the following best describes the trend in electronegativity across a period in the periodic table?
+Your answer: a - It increases from left to right
+Correct answer: a - It increases from left to right
+Result: Correct
+
+Question: Which of the following best describes the nature of the bonding in carbon dioxide (CO₂)?
+Your answer: c - Nonpolar covalent
+Correct answer: c - Nonpolar covalent
+Result: Correct
+
+Question: Which of the following is true about the enthalpy change (ΔH) for an exothermic reaction?
+Your answer: b - ΔH is negative
+Correct answer: b - ΔH is negative
+Result: Correct
+
+Physics: 50 / 54
+Question: Which of the following quantities is a vector?
+Your answer: c - Acceleration
+Correct answer: c - Acceleration
+Result: Correct
+
+Question: Which of the following equations represents Newton's second law of motion?
+Your answer: a - F = ma
+Correct answer: a - F = ma
+Result: Correct
+
+Question: A car accelerates uniformly from rest to a speed of 20 m/s in 5 seconds. What is the acceleration of the car?
+Your answer: b - 4 m/s²
+Correct answer: b - 4 m/s²
+Result: Correct
+
+Question: Which of the following best describes the principle of conservation of momentum?
+Your answer: a - The total momentum of an isolated system remains constant.
+Correct answer: a - The total momentum of an isolated system remains constant.
+Result: Correct
+
+Question: Which of the following statements is true about centripetal force?
+Your answer: b - It is directed toward the center of the circular path.
+Correct answer: b - It is directed toward the center of the circular path.
+Result: Correct
+
+Question: A satellite orbits the Earth at a constant speed. Which of the following quantities remains constant for the satellite?
+Your answer: c - Speed
+Correct answer: c - Speed
+Result: Correct
+
+Question: Which of the following equations represents the work-energy theorem?
+Your answer: b - W = ΔK
+Correct answer: b - W = ΔK
+Result: Correct
+
+Question: A block of mass 5 kg is pushed with a force of 20 N over a distance of 4 m. What is the work done on the block?
+Your answer: c - 80 J
+Correct answer: c - 80 J
+Result: Correct
+
+Question: Which of the following is the unit of power in the SI system?
+Your answer: b - Watt
+Correct answer: b - Watt
+Result: Correct
+
+Question: Which of the following equations represents Bernoulli's principle?
+Your answer: b - P + ρv + ½ρv² = constant
+Correct answer: a - P + ½ρv² + ρgh = constant
+Result: Incorrect
+
+Question: A fluid flows through a pipe of varying cross-sectional area. According to the continuity equation, which of the following statements is true?
+Your answer: a - The mass flow rate is constant along the pipe.
+Correct answer: a - The mass flow rate is constant along the pipe.
+Result: Correct
+
+Question: Which of the following best describes the electric field at a point due to a point charge?
+Your answer: b - It is inversely proportional to the square of the distance from the charge.
+Correct answer: b - It is inversely proportional to the square of the distance from the charge.
+Result: Correct
+
+Question: Which of the following equations represents Coulomb's law?
+Your answer: b - F = k q₁q₂ / r²
+Correct answer: b - F = k q₁q₂ / r²
+Result: Correct
+
+Question: Two point charges are separated by a distance of 3 m and experience a force of 4 N. If the distance between the charges is doubled, what is the new force between them?
+Your answer: a - 1 N
+Correct answer: a - 1 N
+Result: Correct
+
+Question: Which of the following best describes the capacitance of a parallel plate capacitor?
+Your answer: b - It is inversely proportional to the plate separation.
+Correct answer: b - It is inversely proportional to the plate separation.
+Result: Correct
+
+Question: Which of the following equations represents Ohm's law?
+Your answer: a - V = IR
+Correct answer: a - V = IR
+Result: Correct
+
+Question: A resistor with a resistance of 10 ohms is connected to a 5 V battery. What is the current through the resistor?
+Your answer: b - 1 A
+Correct answer: b - 1 A
+Result: Correct
+
+Question: Which of the following best describes the magnetic field around a current-carrying wire?
+Your answer: c - It forms concentric circles around the wire.
+Correct answer: c - It forms concentric circles around the wire.
+Result: Correct
+
+Question: Which of the following equations represents the relationship between the magnetic force on a moving charge and its velocity, magnetic field, and charge?
+Your answer: a - F = qvB
+Correct answer: a - F = qvB
+Result: Correct
+
+Question: A proton moves with a velocity of 2 x 10⁶ m/s perpendicular to a magnetic field of 0.5 T. What is the magnitude of the magnetic force on the proton?
+Your answer: b - 8 x 10⁻¹⁴ N
+Correct answer: c - 4 x 10⁻¹³ N
+Result: Incorrect
+
+Question: Which of the following equations represents the period of a simple harmonic oscillator?
+Your answer: b - T = 2π√(m/k)
+Correct answer: b - T = 2π√(m/k)
+Result: Correct
+
+Question: A pendulum has a length of 2 m. What is its period of oscillation?
+Your answer: b - 2.8 s
+Correct answer: b - 2.8 s
+Result: Correct
+
+Question: Which of the following best describes the Doppler effect?
+Your answer: a - Change in frequency of a wave due to the motion of the source or observer
+Correct answer: a - Change in frequency of a wave due to the motion of the source or observer
+Result: Correct
+
+Question: A sound source moves towards a stationary observer. Which of the following changes will be observed?
+Your answer: b - Increase in frequency and decrease in wavelength
+Correct answer: b - Increase in frequency and decrease in wavelength
+Result: Correct
+
+Question: Which of the following equations represents the principle of superposition for waves?
+Your answer: b - y = y₁ - y₂
+Correct answer: a - y = y₁ + y₂
+Result: Incorrect
+
+Question: Two waves of amplitude 3 cm and 4 cm interfere constructively. What is the amplitude of the resulting wave?
+Your answer: b - 7 cm
+Correct answer: b - 7 cm
+Result: Correct
+
+Question: Which of the following equations represents Snell's law?
+Your answer: b - n₁cosθ₁ = n₂cosθ₂
+Correct answer: a - n₁sinθ₁ = n₂sinθ₂
+Result: Incorrect
+
+Question: Light travels from air into water with an index of refraction of 1.33. If the angle of incidence is 30°, what is the angle of refraction?
+Your answer: a - 19.5°
+Correct answer: a - 19.5°
+Result: Correct
+
+Question: Which of the following equations represents the relationship between the focal length (f), object distance (o), and image distance (i) for a lens?
+Your answer: a - 1/f = 1/o + 1/i
+Correct answer: a - 1/f = 1/o + 1/i
+Result: Correct
+
+Question: A convex lens has a focal length of 10 cm. An object is placed 20 cm from the lens. What is the image distance?
+Your answer: b - 10 cm
+Correct answer: b - 10 cm
+Result: Correct
+
+Question: Which of the following equations represents the relationship between the speed of light (c), frequency (f), and wavelength (λ) of a wave?
+Your answer: a - c = fλ
+Correct answer: a - c = fλ
+Result: Correct
+
+Question: Which of the following best describes the principle of conservation of energy?
+Your answer: b - Energy can be transformed from one form to another but cannot be created or destroyed.
+Correct answer: b - Energy can be transformed from one form to another but cannot be created or destroyed.
+Result: Correct
+
+Question: A 2 kg mass is dropped from a height of 5 m. What is its kinetic energy just before it hits the ground?
+Your answer: d - 100 J
+Correct answer: d - 100 J
+Result: Correct
+
+Question: Which of the following equations represents the first law of thermodynamics?
+Your answer: a - ΔU = Q - W
+Correct answer: a - ΔU = Q - W
+Result: Correct
+
+Question: Which of the following best describes the efficiency of a heat engine?
+Your answer: a - It is the ratio of the work done by the engine to the heat input.
+Correct answer: a - It is the ratio of the work done by the engine to the heat input.
+Result: Correct
+
+Question: Which of the following best describes the concept of entropy?
+Your answer: b - It is a measure of the disorder of a system.
+Correct answer: b - It is a measure of the disorder of a system.
+Result: Correct
+
+Question: Which of the following equations represents the relationship between the change in entropy (ΔS), heat (Q), and temperature (T)?
+Your answer: a - ΔS = Q/T
+Correct answer: a - ΔS = Q/T
+Result: Correct
+
+Question: Which of the following best describes the wave-particle duality of light?
+Your answer: a - Light behaves as a wave and a particle simultaneously.
+Correct answer: a - Light behaves as a wave and a particle simultaneously.
+Result: Correct
+
+Question: Which of the following equations represents the energy of a photon?
+Your answer: a - E = hf
+Correct answer: a - E = hf
+Result: Correct
+
+Question: Which of the following best describes the Heisenberg uncertainty principle?
+Your answer: a - It is impossible to simultaneously know the exact position and momentum of a particle.
+Correct answer: a - It is impossible to simultaneously know the exact position and momentum of a particle.
+Result: Correct
+
+Question: Which of the following equations represents the de Broglie wavelength of a particle?
+Your answer: a - λ = h/mv
+Correct answer: a - λ = h/mv
+Result: Correct
+
+Question: Which of the following best describes the photoelectric effect?
+Your answer: a - Emission of electrons from a metal surface when light of sufficient energy is incident on it.
+Correct answer: a - Emission of electrons from a metal surface when light of sufficient energy is incident on it.
+Result: Correct
+
+Question: Which of the following equations represents the relationship between the kinetic energy of an electron and the stopping potential in the photoelectric effect?
+Your answer: a - KE = eV
+Correct answer: a - KE = eV
+Result: Correct
+
+Question: Which of the following best describes the concept of nuclear fission?
+Your answer: a - Splitting of a heavy nucleus into two lighter nuclei with the release of energy.
+Correct answer: a - Splitting of a heavy nucleus into two lighter nuclei with the release of energy.
+Result: Correct
+
+Question: Which of the following equations represents Einstein's mass-energy equivalence?
+Your answer: a - E = mc²
+Correct answer: a - E = mc²
+Result: Correct
+
+Question: Which of the following best describes the concept of nuclear fusion?
+Your answer: b - Combining of two light nuclei into a heavier nucleus with the release of energy.
+Correct answer: b - Combining of two light nuclei into a heavier nucleus with the release of energy.
+Result: Correct
+
+Question: Which of the following best describes the Bohr model of the atom?
+Your answer: a - Electrons orbit the nucleus in fixed paths with quantized energy levels.
+Correct answer: a - Electrons orbit the nucleus in fixed paths with quantized energy levels.
+Result: Correct
+
+Question: Which of the following equations represents the energy levels of the hydrogen atom in the Bohr model?
+Your answer: a - E = -13.6 eV/n²
+Correct answer: a - E = -13.6 eV/n²
+Result: Correct
+
+Question: Which of the following best describes the concept of radioactive decay?
+Your answer: a - Spontaneous emission of particles or radiation from an unstable nucleus.
+Correct answer: a - Spontaneous emission of particles or radiation from an unstable nucleus.
+Result: Correct
+
+Question: A 2 kg object is moving at a speed of 3 m/s. What is its kinetic energy?
+Your answer: d - 12 J
+Correct answer: d - 12 J
+Result: Correct
+
+Question: A wave has a frequency of 5 Hz and a wavelength of 2 meters. What is the speed of the wave?
+Your answer: c - 10 m/s
+Correct answer: c - 10 m/s
+Result: Correct
+
+Question: Which of the following best describes the concept of potential energy in a gravitational field?
+Your answer: b - It is the energy stored due to an object's position.
+Correct answer: b - It is the energy stored due to an object's position.
+Result: Correct
+
+Question: A circuit contains a 12 V battery and a resistor of 4 ohms. What is the current flowing through the circuit?
+Your answer: b - 3 A
+Correct answer: b - 3 A
+Result: Correct
+
+Question: Which of the following best describes the principle of conservation of angular momentum?
+Your answer: a - The total angular momentum of a system remains constant if no external torques act on it.
+Correct answer: a - The total angular momentum of a system remains constant if no external torques act on it.
+Result: Correct
+
+English: 16 / 18
+Question: Which of the following sentences uses a semicolon correctly?
+Your answer: a - I have a big test tomorrow; I can't go out tonight.
+Correct answer: a - I have a big test tomorrow; I can't go out tonight.
+Result: Correct
+
+Question: Which of the following words is an antonym of 'loquacious'?
+Your answer: c - Reticent
+Correct answer: c - Reticent
+Result: Correct
+
+Question: Which of the following sentences is grammatically correct?
+Your answer: d - Each of the students has his own book.
+Correct answer: d - Each of the students has his own book.
+Result: Correct
+
+Question: Which of the following words means 'to criticize severely'?
+Your answer: b - Castigate
+Correct answer: b - Castigate
+Result: Correct
+
+Question: Which of the following best defines 'obfuscate'?
+Your answer: b - To confuse
+Correct answer: b - To confuse
+Result: Correct
+
+Question: Which sentence uses the correct form of the verb?
+Your answer: b - If I were rich, I would travel the world.
+Correct answer: b - If I were rich, I would travel the world.
+Result: Correct
+
+Question: Which of the following words is a synonym for 'enervate'?
+Your answer: b - Weaken
+Correct answer: b - Weaken
+Result: Correct
+
+Question: Which of the following sentences is correctly punctuated?
+Your answer: d - My favorite colors are blue, green, and red.
+Correct answer: d - My favorite colors are blue, green, and red.
+Result: Correct
+
+Question: Which of the following best describes 'mendacious'?
+Your answer: c - Deceitful
+Correct answer: c - Deceitful
+Result: Correct
+
+Question: Which of the following sentences uses a colon correctly?
+Your answer: a - She wanted to learn three languages: French, Spanish, and Italian.
+Correct answer: a - She wanted to learn three languages: French, Spanish, and Italian.
+Result: Correct
+
+Question: Which of the following words means 'a person who renounces a religious or political belief or principle'?
+Your answer: b - Adherent
+Correct answer: a - Apostate
+Result: Incorrect
+
+Question: Which sentence is in the passive voice?
+Your answer: b - A delicious meal was cooked by the chef.
+Correct answer: b - A delicious meal was cooked by the chef.
+Result: Correct
+
+Question: Which of the following words is a synonym for 'ephemeral'?
+Your answer: c - Brief
+Correct answer: c - Brief
+Result: Correct
+
+Question: Which of the following sentences uses 'effect' correctly?
+Your answer: c - The new law will have a positive effect on the economy.
+Correct answer: c - The new law will have a positive effect on the economy.
+Result: Correct
+
+Question: Which of the following words means 'fearless'?
+Your answer: d - Craven
+Correct answer: b - Intrepid
+Result: Incorrect
+
+Question: Which of the following sentences is an example of a complex sentence?
+Your answer: b - Before I went to the store, I made a list of what I needed.
+Correct answer: b - Before I went to the store, I made a list of what I needed.
+Result: Correct
+
+Question: Which of the following best defines 'alacrity'?
+Your answer: c - Eagerness
+Correct answer: c - Eagerness
+Result: Correct
+
+Question: Which of the following sentences uses 'affect' correctly?
+Your answer: b - The new policy will affect our company significantly.
+Correct answer: b - The new policy will affect our company significantly.
+Result: Correct
+
+Logical Reasoning: 5 / 6
+Question: If all roses are flowers, and some flowers fade quickly, which of the following statements is true?
+Your answer: b - Some roses fade quickly.
+Correct answer: b - Some roses fade quickly.
+Result: Correct
+
+Question: If the statement 'All doctors are professionals' is true, which of the following must also be true?
+Your answer: a - Some professionals are not doctors.
+Correct answer: a - Some professionals are not doctors.
+Result: Correct
+
+Question: A survey shows that 80% of the people who use a particular product are satisfied with it. Which of the following conclusions can be logically drawn from this information?
+Your answer: a - Most people are satisfied with the product.
+Correct answer: a - Most people are satisfied with the product.
+Result: Correct
+
+Question: In a class of 30 students, 18 are girls and 12 are boys. If 10 students are selected at random, what is the probability that 6 of them will be girls?
+Your answer: d - 0.6
+Correct answer: b - 0.4
+Result: Incorrect
+
+Question: If it rains, then the ground will be wet. The ground is wet. Which of the following conclusions is valid?
+Your answer: b - It may have rained.
+Correct answer: b - It may have rained.
+Result: Correct
+
+Question: A company has 150 employees. 90 of them are engineers, 45 are marketers, and the remaining are managers. If an employee is selected at random, what is the probability that the employee is either an engineer or a marketer?
+Your answer: c - 0.8
+Correct answer: c - 0.8
+Result: Correct
+

@@ -1,0 +1,2012 @@
+{
+    "Biology": [
+        {
+            "question": "Which of the following amino acids contains a sulfur atom?",
+            "options": {
+                "a": "Glycine",
+                "b": "Cysteine",
+                "c": "Phenylalanine",
+                "d": "Valine"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is the correct order of steps in the glycolysis pathway?",
+            "options": {
+                "a": "Glucose → Pyruvate → Fructose-1,6-bisphosphate → ATP",
+                "b": "Glucose → Fructose-1,6-bisphosphate → Glyceraldehyde-3-phosphate → Pyruvate",
+                "c": "Glucose → ATP → Fructose-1,6-bisphosphate → Pyruvate",
+                "d": "Glucose → Glyceraldehyde-3-phosphate → Fructose-1,6-bisphosphate → Pyruvate"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which enzyme catalyzes the conversion of pyruvate to acetyl-CoA in the mitochondria?",
+            "options": {
+                "a": "Hexokinase",
+                "b": "Pyruvate dehydrogenase",
+                "c": "Phosphofructokinase",
+                "d": "Aldolase"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a function of the smooth endoplasmic reticulum?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "Lipid synthesis",
+                "c": "DNA replication",
+                "d": "ATP production"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the fluid mosaic model of the plasma membrane?",
+            "options": {
+                "a": "A rigid structure composed of phospholipids and proteins",
+                "b": "A flexible structure with proteins embedded in a phospholipid bilayer",
+                "c": "A double layer of proteins with embedded phospholipids",
+                "d": "A single layer of phospholipids with proteins attached to the surface"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which organelle is responsible for the degradation of worn-out cellular components?",
+            "options": {
+                "a": "Nucleus",
+                "b": "Mitochondrion",
+                "c": "Lysosome",
+                "d": "Golgi apparatus"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following processes occurs in the thylakoid membrane of the chloroplast?",
+            "options": {
+                "a": "Calvin cycle",
+                "b": "Glycolysis",
+                "c": "Electron transport chain",
+                "d": "Citric acid cycle"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following statements is true about oxidative phosphorylation?",
+            "options": {
+                "a": "It occurs in the cytoplasm",
+                "b": "It produces ATP through substrate-level phosphorylation",
+                "c": "It involves the transfer of electrons to oxygen",
+                "d": "It occurs during the Calvin cycle"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is an example of a retrovirus?",
+            "options": {
+                "a": "HIV",
+                "b": "Influenza virus",
+                "c": "Herpes simplex virus",
+                "d": "Hepatitis B virus"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a characteristic of prokaryotic cells but not eukaryotic cells?",
+            "options": {
+                "a": "Presence of a nucleus",
+                "b": "Presence of membrane-bound organelles",
+                "c": "Circular DNA",
+                "d": "Linear chromosomes"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of ribosomes?",
+            "options": {
+                "a": "Replication of DNA",
+                "b": "Transcription of RNA",
+                "c": "Translation of mRNA into protein",
+                "d": "Modification of proteins"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of tRNA during translation?",
+            "options": {
+                "a": "Carries the genetic code from DNA to the ribosome",
+                "b": "Synthesizes the protein based on the mRNA sequence",
+                "c": "Brings the appropriate amino acid to the ribosome",
+                "d": "Modifies the protein after it is synthesized"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following processes is responsible for the production of antibodies by B cells?",
+            "options": {
+                "a": "Phagocytosis",
+                "b": "Clonal selection",
+                "c": "Apoptosis",
+                "d": "Autophagy"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a feature of adaptive immunity but not innate immunity?",
+            "options": {
+                "a": "Rapid response to pathogens",
+                "b": "Non-specific response",
+                "c": "Immunological memory",
+                "d": "Physical barriers to infection"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following statements is true about T cells?",
+            "options": {
+                "a": "They are involved in humoral immunity",
+                "b": "They are produced in the bone marrow and mature in the thymus",
+                "c": "They produce antibodies",
+                "d": "They recognize antigens presented by B cells"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following enzymes is responsible for synthesizing new DNA strands during DNA replication?",
+            "options": {
+                "a": "DNA ligase",
+                "b": "DNA helicase",
+                "c": "DNA polymerase",
+                "d": "Primase"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of telomerase?",
+            "options": {
+                "a": "It unwinds the DNA double helix",
+                "b": "It adds repetitive sequences to the ends of chromosomes",
+                "c": "It joins Okazaki fragments",
+                "d": "It synthesizes RNA primers"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of a second messenger in cell signaling?",
+            "options": {
+                "a": "cAMP",
+                "b": "Insulin",
+                "c": "Glucagon",
+                "d": "Epinephrine"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the function of the sodium-potassium pump?",
+            "options": {
+                "a": "It allows passive diffusion of sodium and potassium ions",
+                "b": "It uses ATP to actively transport sodium out of the cell and potassium into the cell",
+                "c": "It generates action potentials",
+                "d": "It facilitates the transport of glucose"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a characteristic of the lytic cycle of a virus?",
+            "options": {
+                "a": "Integration of viral DNA into the host genome",
+                "b": "Latent infection without symptoms",
+                "c": "Immediate production of new viral particles",
+                "d": "Replication of the viral genome without host cell destruction"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is an example of a coenzyme?",
+            "options": {
+                "a": "ATP",
+                "b": "NAD+",
+                "c": "Glucose",
+                "d": "Cholesterol"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following statements is true about competitive inhibition of enzymes?",
+            "options": {
+                "a": "The inhibitor binds to an allosteric site on the enzyme",
+                "b": "The inhibitor binds to the active site of the enzyme",
+                "c": "The inhibition cannot be overcome by increasing substrate concentration",
+                "d": "The inhibitor changes the shape of the enzyme"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a feature of eukaryotic mRNA but not prokaryotic mRNA?",
+            "options": {
+                "a": "Polycistronic nature",
+                "b": "5' cap",
+                "c": "Shine-Dalgarno sequence",
+                "d": "Direct translation without processing"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following processes occurs during the S phase of the cell cycle?",
+            "options": {
+                "a": "DNA replication",
+                "b": "Cell growth",
+                "c": "Cytokinesis",
+                "d": "Mitotic spindle formation"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is an example of a tumor suppressor gene?",
+            "options": {
+                "a": "p53",
+                "b": "Ras",
+                "c": "Myc",
+                "d": "EGFR"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the function of the Golgi apparatus?",
+            "options": {
+                "a": "Synthesis of proteins",
+                "b": "Packaging and distribution of proteins and lipids",
+                "c": "Degradation of cellular waste",
+                "d": "Energy production"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a function of the cytoskeleton?",
+            "options": {
+                "a": "DNA replication",
+                "b": "Protein synthesis",
+                "c": "Cell shape and movement",
+                "d": "Photosynthesis"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following molecules is the final electron acceptor in the electron transport chain?",
+            "options": {
+                "a": "NADH",
+                "b": "FADH2",
+                "c": "Oxygen",
+                "d": "Water"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of histones?",
+            "options": {
+                "a": "They are enzymes that synthesize DNA",
+                "b": "They are structural proteins that package and order DNA into nucleosomes",
+                "c": "They are transcription factors that regulate gene expression",
+                "d": "They are receptors that mediate cell signaling"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following processes is responsible for the production of gametes?",
+            "options": {
+                "a": "Mitosis",
+                "b": "Meiosis",
+                "c": "Binary fission",
+                "d": "Budding"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following statements is true about the lac operon in E. coli?",
+            "options": {
+                "a": "It is an example of a repressible operon",
+                "b": "It is regulated by the availability of lactose",
+                "c": "It is always active",
+                "d": "It is found in eukaryotic cells"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following molecules is an example of a purine?",
+            "options": {
+                "a": "Cytosine",
+                "b": "Thymine",
+                "c": "Adenine",
+                "d": "Uracil"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of microtubules?",
+            "options": {
+                "a": "They are involved in muscle contraction",
+                "b": "They provide structural support for the cell",
+                "c": "They facilitate the movement of chromosomes during cell division",
+                "d": "They are responsible for the synthesis of proteins"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a function of the mitochondria?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "DNA replication",
+                "c": "ATP production",
+                "d": "Lipid synthesis"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the role of plasmids in bacteria?",
+            "options": {
+                "a": "They carry genes for essential cellular functions",
+                "b": "They are involved in the regulation of gene expression",
+                "c": "They carry genes for antibiotic resistance",
+                "d": "They are involved in the degradation of cellular waste"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following statements is true about the citric acid cycle?",
+            "options": {
+                "a": "It occurs in the cytoplasm",
+                "b": "It produces ATP through substrate-level phosphorylation",
+                "c": "It generates NADH and FADH2 for use in the electron transport chain",
+                "d": "It is part of the light-dependent reactions of photosynthesis"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the process of allopatric speciation?",
+            "options": {
+                "a": "It occurs when a population becomes geographically isolated from its parent population",
+                "b": "It occurs when a population undergoes rapid genetic changes without geographic isolation",
+                "c": "It occurs when a population experiences a sudden decrease in size",
+                "d": "It occurs when two populations merge to form a single population"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the function of reverse transcriptase?",
+            "options": {
+                "a": "It synthesizes RNA from a DNA template",
+                "b": "It synthesizes DNA from an RNA template",
+                "c": "It unwinds the DNA double helix",
+                "d": "It joins Okazaki fragments"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a characteristic of homologous chromosomes?",
+            "options": {
+                "a": "They are identical copies of each other",
+                "b": "They carry the same genes but may have different alleles",
+                "c": "They are present only in haploid cells",
+                "d": "They do not undergo recombination during meiosis"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the function of the rough endoplasmic reticulum?",
+            "options": {
+                "a": "Lipid synthesis",
+                "b": "Protein synthesis",
+                "c": "ATP production",
+                "d": "DNA replication"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of a silent mutation?",
+            "options": {
+                "a": "A mutation that changes an amino acid to a stop codon",
+                "b": "A mutation that does not change the amino acid sequence",
+                "c": "A mutation that changes one amino acid to another",
+                "d": "A mutation that causes a frameshift"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the function of the promoter region of a gene?",
+            "options": {
+                "a": "It is the site where transcription begins",
+                "b": "It is the site where translation begins",
+                "c": "It is the site where RNA splicing occurs",
+                "d": "It is the site where DNA replication begins"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is a characteristic of endosymbiotic theory?",
+            "options": {
+                "a": "Mitochondria and chloroplasts originated from free-living prokaryotes",
+                "b": "Eukaryotic cells evolved through the fusion of multiple prokaryotic cells",
+                "c": "Mitochondria and chloroplasts evolved from primitive eukaryotic cells",
+                "d": "Eukaryotic cells evolved from archaea"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is the function of the signal recognition particle (SRP) in protein synthesis?",
+            "options": {
+                "a": "It recognizes and binds to the mRNA transcript",
+                "b": "It facilitates the entry of ribosomes into the nucleus",
+                "c": "It targets proteins to the endoplasmic reticulum for secretion",
+                "d": "It assists in the folding of newly synthesized proteins"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is an example of a post-translational modification?",
+            "options": {
+                "a": "Phosphorylation",
+                "b": "Splicing",
+                "c": "Transcription",
+                "d": "Replication"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the role of the spindle fibers during mitosis?",
+            "options": {
+                "a": "They duplicate the chromosomes",
+                "b": "They align the chromosomes at the metaphase plate",
+                "c": "They separate the sister chromatids",
+                "d": "They form the nuclear envelope"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a function of the p53 protein?",
+            "options": {
+                "a": "Promotion of cell division",
+                "b": "DNA repair and apoptosis",
+                "c": "Synthesis of ribosomal RNA",
+                "d": "Regulation of lipid metabolism"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following statements is true about the Calvin cycle?",
+            "options": {
+                "a": "It occurs in the stroma of the chloroplast",
+                "b": "It produces ATP and NADPH",
+                "c": "It generates oxygen as a byproduct",
+                "d": "It occurs during the light-dependent reactions"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the function of DNA gyrase in prokaryotic cells?",
+            "options": {
+                "a": "It synthesizes new DNA strands",
+                "b": "It relieves supercoiling of the DNA during replication",
+                "c": "It synthesizes RNA primers",
+                "d": "It joins Okazaki fragments"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the function of chaperone proteins?",
+            "options": {
+                "a": "They catalyze chemical reactions",
+                "b": "They assist in the proper folding of proteins",
+                "c": "They degrade misfolded proteins",
+                "d": "They modify proteins post-translationally"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of an inducible operon?",
+            "options": {
+                "a": "Trp operon",
+                "b": "Lac operon",
+                "c": "Ara operon",
+                "d": "Glu operon"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the function of ribozymes?",
+            "options": {
+                "a": "They are proteins that catalyze chemical reactions",
+                "b": "They are RNA molecules that catalyze chemical reactions",
+                "c": "They are DNA molecules that catalyze chemical reactions",
+                "d": "They are lipids that catalyze chemical reactions"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the function of the peptidyl transferase activity of the ribosome?",
+            "options": {
+                "a": "It forms peptide bonds between amino acids",
+                "b": "It translocates the ribosome along the mRNA",
+                "c": "It recognizes the start codon",
+                "d": "It terminates translation"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following statements is true about the proton-motive force?",
+            "options": {
+                "a": "It is generated by the electron transport chain in mitochondria",
+                "b": "It is used to drive the synthesis of ATP",
+                "c": "It is a result of the accumulation of protons in the intermembrane space",
+                "d": "All of the above"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following functional groups is present in all amino acids?",
+            "options": {
+                "a": "Carboxyl group",
+                "b": "Hydroxyl group",
+                "c": "Carbonyl group",
+                "d": "Phosphate group"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "In which stage of cellular respiration is the majority of ATP produced?",
+            "options": {
+                "a": "Glycolysis",
+                "b": "Krebs cycle",
+                "c": "Electron transport chain",
+                "d": "Fermentation"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following statements best describes the role of enzymes in biological reactions?",
+            "options": {
+                "a": "Enzymes increase the activation energy of reactions.",
+                "b": "Enzymes decrease the activation energy of reactions.",
+                "c": "Enzymes are consumed during the reactions.",
+                "d": "Enzymes are not specific to any particular substrate."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following processes occurs in the stroma of the chloroplast?",
+            "options": {
+                "a": "Light-dependent reactions",
+                "b": "Calvin cycle",
+                "c": "Glycolysis",
+                "d": "Electron transport chain"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is true regarding the structure of a typical eukaryotic cell membrane?",
+            "options": {
+                "a": "It is a single layer of phospholipids with embedded proteins.",
+                "b": "It is a double layer of proteins with embedded phospholipids.",
+                "c": "It is a double layer of phospholipids with embedded proteins.",
+                "d": "It is a single layer of carbohydrates with embedded lipids."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of ribosomes?",
+            "options": {
+                "a": "Replication of DNA",
+                "b": "Synthesis of proteins",
+                "c": "Synthesis of lipids",
+                "d": "Detoxification of drugs"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following molecules is not a part of the Calvin cycle?",
+            "options": {
+                "a": "Ribulose bisphosphate (RuBP)",
+                "b": "NADPH",
+                "c": "ATP",
+                "d": "FADH2"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following is the primary role of the mitochondria?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "Lipid synthesis",
+                "c": "ATP production",
+                "d": "DNA replication"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a common feature of both prokaryotic and eukaryotic cells?",
+            "options": {
+                "a": "Presence of a nucleus",
+                "b": "Presence of membrane-bound organelles",
+                "c": "Presence of ribosomes",
+                "d": "Presence of mitochondria"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of lysosomes?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "Lipid synthesis",
+                "c": "Intracellular digestion",
+                "d": "Cellular respiration"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following processes results in genetic variation in sexually reproducing organisms?",
+            "options": {
+                "a": "Mitosis",
+                "b": "Binary fission",
+                "c": "Meiosis",
+                "d": "Parthenogenesis"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of the Golgi apparatus?",
+            "options": {
+                "a": "Synthesis of proteins",
+                "b": "Modification and sorting of proteins",
+                "c": "Replication of DNA",
+                "d": "Synthesis of lipids"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the role of tRNA in protein synthesis?",
+            "options": {
+                "a": "It carries amino acids to the ribosome.",
+                "b": "It transcribes DNA into RNA.",
+                "c": "It catalyzes the formation of peptide bonds.",
+                "d": "It carries the genetic code from the nucleus to the ribosome."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following processes occurs in the matrix of the mitochondria?",
+            "options": {
+                "a": "Glycolysis",
+                "b": "Krebs cycle",
+                "c": "Electron transport chain",
+                "d": "Light-dependent reactions"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is true about the genetic code?",
+            "options": {
+                "a": "It is redundant.",
+                "b": "It is ambiguous.",
+                "c": "It varies between different organisms.",
+                "d": "It is read in groups of four nucleotides."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is not a function of the smooth endoplasmic reticulum?",
+            "options": {
+                "a": "Synthesis of lipids",
+                "b": "Detoxification of drugs",
+                "c": "Calcium storage",
+                "d": "Protein synthesis"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following statements is true about enzymes?",
+            "options": {
+                "a": "They are consumed in the reaction.",
+                "b": "They lower the activation energy of reactions.",
+                "c": "They increase the activation energy of reactions.",
+                "d": "They are only found in eukaryotic cells."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following molecules is not involved in the process of translation?",
+            "options": {
+                "a": "mRNA",
+                "b": "tRNA",
+                "c": "rRNA",
+                "d": "DNA"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following best describes the function of peroxisomes?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "Lipid synthesis",
+                "c": "Breakdown of fatty acids",
+                "d": "Cellular respiration"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following processes is responsible for the generation of oxygen during photosynthesis?",
+            "options": {
+                "a": "Calvin cycle",
+                "b": "Light-dependent reactions",
+                "c": "Glycolysis",
+                "d": "Krebs cycle"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is not a function of the cytoskeleton?",
+            "options": {
+                "a": "Maintaining cell shape",
+                "b": "Cell movement",
+                "c": "Protein synthesis",
+                "d": "Intracellular transport"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following molecules is produced during the light-dependent reactions of photosynthesis and consumed during the Calvin cycle?",
+            "options": {
+                "a": "NADPH",
+                "b": "FADH2",
+                "c": "ATP",
+                "d": "NADH"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is the correct sequence of events in the cell cycle?",
+            "options": {
+                "a": "G1 → S → G2 → M",
+                "b": "S → G1 → G2 → M",
+                "c": "G2 → G1 → S → M",
+                "d": "M → G1 → G2 → S"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following structures is not found in prokaryotic cells?",
+            "options": {
+                "a": "Ribosomes",
+                "b": "Plasma membrane",
+                "c": "Nucleus",
+                "d": "Cytoplasm"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the function of the central vacuole in plant cells?",
+            "options": {
+                "a": "Protein synthesis",
+                "b": "Lipid synthesis",
+                "c": "Storage and maintenance of turgor pressure",
+                "d": "Detoxification of drugs"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following statements is true about the electron transport chain?",
+            "options": {
+                "a": "It occurs in the cytoplasm.",
+                "b": "It produces ATP through substrate-level phosphorylation.",
+                "c": "It requires oxygen as the final electron acceptor.",
+                "d": "It is the first stage of cellular respiration."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is true about plasmids?",
+            "options": {
+                "a": "They are found in eukaryotic cells.",
+                "b": "They are circular DNA molecules.",
+                "c": "They carry essential genes for cell survival.",
+                "d": "They are found in the nucleus."
+            },
+            "answer": "b"
+        }
+    ],
+    "Physics": [
+        {
+            "question": "Which of the following best describes the principle of superposition in wave mechanics?",
+            "options": {
+                "a": "The resultant wave is the sum of the individual waves.",
+                "b": "Waves cancel each other out completely.",
+                "c": "Waves reflect off each other.",
+                "d": "Waves change direction upon encountering an obstacle."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A particle moves along a straight line with an acceleration given by a(t) = 3t^2. If its velocity at t = 0 is 2 m/s, what is its velocity at t = 2 s?",
+            "options": {
+                "a": "6 m/s",
+                "b": "10 m/s",
+                "c": "14 m/s",
+                "d": "18 m/s"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following quantities remains constant in an elastic collision?",
+            "options": {
+                "a": "Kinetic energy",
+                "b": "Momentum",
+                "c": "Both kinetic energy and momentum",
+                "d": "Neither kinetic energy nor momentum"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The moment of inertia of a solid sphere of mass M and radius R about an axis through its center is given by which of the following expressions?",
+            "options": {
+                "a": "2/5 MR^2",
+                "b": "1/2 MR^2",
+                "c": "2/3 MR^2",
+                "d": "3/5 MR^2"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A 2 kg object moving with a velocity of 5 m/s collides elastically with a stationary object of mass 3 kg. What is the velocity of the 2 kg object after the collision?",
+            "options": {
+                "a": "1 m/s",
+                "b": "2 m/s",
+                "c": "3 m/s",
+                "d": "4 m/s"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following equations represents Bernoulli's principle?",
+            "options": {
+                "a": "P + 1/2 ρv^2 + ρgh = constant",
+                "b": "P + ρv + 1/2 ρv^2 = constant",
+                "c": "P + ρgh = constant",
+                "d": "P + v^2 + gh = constant"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is true about the electric field at a point due to a point charge?",
+            "options": {
+                "a": "It is directly proportional to the square of the distance from the charge.",
+                "b": "It is inversely proportional to the square of the distance from the charge.",
+                "c": "It is directly proportional to the distance from the charge.",
+                "d": "It is inversely proportional to the distance from the charge."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "A parallel-plate capacitor has a capacitance of 2 µF and is connected to a 12 V battery. What is the energy stored in the capacitor?",
+            "options": {
+                "a": "144 µJ",
+                "b": "144 J",
+                "c": "144 mJ",
+                "d": "144 µC"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the magnetic field around a current-carrying wire?",
+            "options": {
+                "a": "It is parallel to the wire.",
+                "b": "It is perpendicular to the wire.",
+                "c": "It forms concentric circles around the wire.",
+                "d": "It is zero."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "A coil of wire with 10 turns and an area of 0.01 m² is placed in a magnetic field of 0.1 T. If the coil is rotated at a frequency of 60 Hz, what is the peak emf induced in the coil?",
+            "options": {
+                "a": "0.1 V",
+                "b": "0.6 V",
+                "c": "3.8 V",
+                "d": "12 V"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "A pendulum has a length of 1.5 m. What is its period of oscillation?",
+            "options": {
+                "a": "2.1 s",
+                "b": "2.5 s",
+                "c": "3.1 s",
+                "d": "4.3 s"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "A sound source moves towards a stationary observer. Which of the following changes will be observed?",
+            "options": {
+                "a": "Increase in wavelength and frequency",
+                "b": "Increase in frequency and decrease in wavelength",
+                "c": "Decrease in frequency and wavelength",
+                "d": "Decrease in frequency and increase in wavelength"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of entropy?",
+            "options": {
+                "a": "It is a measure of the energy of a system.",
+                "b": "It is a measure of the disorder of a system.",
+                "c": "It is a measure of the temperature of a system.",
+                "d": "It is a measure of the pressure of a system."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Light travels from air into water with an index of refraction of 1.33. If the angle of incidence is 45°, what is the angle of refraction?",
+            "options": {
+                "a": "27.0°",
+                "b": "31.8°",
+                "c": "33.3°",
+                "d": "35.0°"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "A convex lens has a focal length of 20 cm. An object is placed 40 cm from the lens. What is the image distance?",
+            "options": {
+                "a": "10 cm",
+                "b": "20 cm",
+                "c": "30 cm",
+                "d": "40 cm"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following equations represents the relationship between the speed of light (c), frequency (f), and wavelength (λ) of a wave?",
+            "options": {
+                "a": "c = fλ",
+                "b": "c = f/λ",
+                "c": "c = λ/f",
+                "d": "c = f²λ"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A 3 kg mass is dropped from a height of 10 m. What is its kinetic energy just before it hits the ground?",
+            "options": {
+                "a": "30 J",
+                "b": "60 J",
+                "c": "150 J",
+                "d": "300 J"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following equations represents the first law of thermodynamics?",
+            "options": {
+                "a": "ΔU = Q - W",
+                "b": "ΔU = Q + W",
+                "c": "ΔU = W - Q",
+                "d": "ΔU = Q/W"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A resistor with a resistance of 5 ohms is connected to a 10 V battery. What is the power dissipated by the resistor?",
+            "options": {
+                "a": "2 W",
+                "b": "10 W",
+                "c": "20 W",
+                "d": "50 W"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "A wave has a frequency of 8 Hz and a wavelength of 0.5 meters. What is the speed of the wave?",
+            "options": {
+                "a": "2.5 m/s",
+                "b": "4 m/s",
+                "c": "6 m/s",
+                "d": "10 m/s"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the Heisenberg uncertainty principle?",
+            "options": {
+                "a": "It is impossible to simultaneously know the exact position and momentum of a particle.",
+                "b": "It is impossible to simultaneously know the exact position and velocity of a particle.",
+                "c": "It is impossible to simultaneously know the exact energy and position of a particle.",
+                "d": "It is impossible to simultaneously know the exact energy and momentum of a particle."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A car traveling at 20 m/s comes to a stop in 5 seconds. What is its acceleration?",
+            "options": {
+                "a": "-2 m/s²",
+                "b": "-4 m/s²",
+                "c": "-5 m/s²",
+                "d": "-10 m/s²"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "A projectile is launched at an angle of 30° with an initial velocity of 40 m/s. What is the maximum height it reaches?",
+            "options": {
+                "a": "10 m",
+                "b": "20 m",
+                "c": "30 m",
+                "d": "40 m"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of nuclear fission?",
+            "options": {
+                "a": "Splitting of a heavy nucleus into two lighter nuclei with the release of energy.",
+                "b": "Combining of two light nuclei into a heavier nucleus with the release of energy.",
+                "c": "Splitting of a light nucleus into two heavier nuclei with the release of energy.",
+                "d": "Combining of two heavy nuclei into a lighter nucleus with the release of energy."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following equations represents Einstein's mass-energy equivalence?",
+            "options": {
+                "a": "E = mc²",
+                "b": "E = mc",
+                "c": "E = mc³",
+                "d": "E = mc/²"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A charge of 5 C is moved through a potential difference of 12 V. What is the work done on the charge?",
+            "options": {
+                "a": "12 J",
+                "b": "30 J",
+                "c": "60 J",
+                "d": "100 J"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the photoelectric effect?",
+            "options": {
+                "a": "Emission of electrons from a metal surface when light of sufficient energy is incident on it.",
+                "b": "Absorption of electrons by a metal surface when light of sufficient energy is incident on it.",
+                "c": "Scattering of electrons from a metal surface when light of sufficient energy is incident on it.",
+                "d": "Reflection of electrons from a metal surface when light of sufficient energy is incident on it."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A particle with a charge of -3 µC is placed in a uniform electric field of 500 N/C. What is the force on the particle?",
+            "options": {
+                "a": "0.15 N",
+                "b": "-0.15 N",
+                "c": "1.5 N",
+                "d": "-1.5 N"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following equations represents the relationship between the de Broglie wavelength of a particle and its momentum?",
+            "options": {
+                "a": "λ = h/p",
+                "b": "λ = hp",
+                "c": "λ = p/h",
+                "d": "λ = h/p²"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the principle of conservation of angular momentum?",
+            "options": {
+                "a": "The total angular momentum of a system remains constant if no external torques act on it.",
+                "b": "The total linear momentum of a system remains constant if no external forces act on it.",
+                "c": "The total mechanical energy of a system remains constant if no external work is done.",
+                "d": "The total kinetic energy of a system remains constant if no external work is done."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A pendulum with a length of 2 m has a period of oscillation of 2.83 s. What is the acceleration due to gravity at this location?",
+            "options": {
+                "a": "8.9 m/s²",
+                "b": "9.8 m/s²",
+                "c": "10.9 m/s²",
+                "d": "12.3 m/s²"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "A transformer has a primary coil with 50 turns and a secondary coil with 200 turns. If the primary voltage is 120 V, what is the secondary voltage?",
+            "options": {
+                "a": "30 V",
+                "b": "60 V",
+                "c": "240 V",
+                "d": "480 V"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "A light ray passes from water (n = 1.33) into glass (n = 1.50). If the angle of incidence is 45°, what is the angle of refraction?",
+            "options": {
+                "a": "35.3°",
+                "b": "28.1°",
+                "c": "22.1°",
+                "d": "18.7°"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the Doppler effect?",
+            "options": {
+                "a": "Change in frequency of a wave due to the motion of the source or observer",
+                "b": "Reflection of waves at a boundary",
+                "c": "Diffraction of waves through an opening",
+                "d": "Interference of waves from two sources"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the principle of buoyancy?",
+            "options": {
+                "a": "An object in a fluid experiences an upward force equal to the weight of the fluid displaced by the object.",
+                "b": "An object in a fluid experiences a downward force equal to the weight of the fluid displaced by the object.",
+                "c": "An object in a fluid experiences a force equal to its weight.",
+                "d": "An object in a fluid experiences a force equal to the fluid's density."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the concept of simple harmonic motion?",
+            "options": {
+                "a": "Motion that repeats itself at regular intervals and is described by a sinusoidal function.",
+                "b": "Motion that occurs along a straight line with constant acceleration.",
+                "c": "Motion that occurs in a circular path with constant speed.",
+                "d": "Motion that changes direction periodically with varying acceleration."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A 1.5 kg mass is attached to a spring with a spring constant of 200 N/m. What is the period of oscillation of the mass-spring system?",
+            "options": {
+                "a": "0.11 s",
+                "b": "0.55 s",
+                "c": "0.77 s",
+                "d": "1.10 s"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of electrical potential energy?",
+            "options": {
+                "a": "Energy stored due to the position of a charge in an electric field.",
+                "b": "Energy transferred by a charge in an electric circuit.",
+                "c": "Energy released during a chemical reaction.",
+                "d": "Energy stored in a capacitor."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A parallel-plate capacitor has a capacitance of 5 µF and is connected to a 10 V battery. What is the charge stored on the capacitor?",
+            "options": {
+                "a": "5 µC",
+                "b": "10 µC",
+                "c": "50 µC",
+                "d": "100 µC"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the concept of thermal equilibrium?",
+            "options": {
+                "a": "Two objects in thermal contact have the same temperature and no net heat flow between them.",
+                "b": "Two objects in thermal contact have different temperatures and heat flows from the hotter object to the colder object.",
+                "c": "Two objects in thermal contact have the same temperature and heat flows from the hotter object to the colder object.",
+                "d": "Two objects in thermal contact have different temperatures and no net heat flow between them."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A 10 kg object is subjected to a force of 50 N. What is the acceleration of the object?",
+            "options": {
+                "a": "2 m/s²",
+                "b": "5 m/s²",
+                "c": "10 m/s²",
+                "d": "50 m/s²"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of electric flux?",
+            "options": {
+                "a": "The amount of electric field passing through a given area.",
+                "b": "The amount of electric charge passing through a given area.",
+                "c": "The amount of electric current passing through a given area.",
+                "d": "The amount of electric potential passing through a given area."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A light source emits light with a wavelength of 500 nm. What is the energy of a single photon of this light?",
+            "options": {
+                "a": "2.48 eV",
+                "b": "3.10 eV",
+                "c": "4.14 eV",
+                "d": "5.00 eV"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the concept of Young's modulus?",
+            "options": {
+                "a": "A measure of the stiffness of a material.",
+                "b": "A measure of the density of a material.",
+                "c": "A measure of the thermal conductivity of a material.",
+                "d": "A measure of the electrical conductivity of a material."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A 0.5 kg mass is attached to a spring and oscillates with a period of 2 s. What is the spring constant?",
+            "options": {
+                "a": "0.25 N/m",
+                "b": "1.0 N/m",
+                "c": "4.0 N/m",
+                "d": "9.8 N/m"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the concept of wave-particle duality?",
+            "options": {
+                "a": "Particles exhibit both wave-like and particle-like properties.",
+                "b": "Waves exhibit both particle-like and wave-like properties.",
+                "c": "Particles exhibit only wave-like properties.",
+                "d": "Waves exhibit only particle-like properties."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A car accelerates uniformly from rest to a speed of 30 m/s in 10 s. What is its acceleration?",
+            "options": {
+                "a": "2 m/s²",
+                "b": "3 m/s²",
+                "c": "4 m/s²",
+                "d": "5 m/s²"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of resonance?",
+            "options": {
+                "a": "The increase in amplitude of oscillation when the frequency of an external force matches the natural frequency of the system.",
+                "b": "The decrease in amplitude of oscillation when the frequency of an external force matches the natural frequency of the system.",
+                "c": "The increase in amplitude of oscillation when the frequency of an external force is half the natural frequency of the system.",
+                "d": "The decrease in amplitude of oscillation when the frequency of an external force is half the natural frequency of the system."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the concept of specific heat capacity?",
+            "options": {
+                "a": "The amount of heat required to raise the temperature of 1 kg of a substance by 1°C.",
+                "b": "The amount of heat required to raise the temperature of 1 g of a substance by 1°C.",
+                "c": "The amount of heat required to raise the temperature of 1 kg of a substance by 1 K.",
+                "d": "The amount of heat required to raise the temperature of 1 g of a substance by 1 K."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A 2 kg mass is dropped from a height of 5 m. What is its velocity just before it hits the ground?",
+            "options": {
+                "a": "5 m/s",
+                "b": "7 m/s",
+                "c": "10 m/s",
+                "d": "15 m/s"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of capacitance?",
+            "options": {
+                "a": "The ability of a conductor to store charge.",
+                "b": "The ability of a conductor to store energy.",
+                "c": "The ability of a conductor to resist the flow of charge.",
+                "d": "The ability of a conductor to resist the flow of energy."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A circuit contains a 12 V battery and a resistor of 6 ohms. What is the current flowing through the circuit?",
+            "options": {
+                "a": "1 A",
+                "b": "2 A",
+                "c": "3 A",
+                "d": "4 A"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of electromagnetic induction?",
+            "options": {
+                "a": "The production of an electromotive force (emf) in a conductor due to a changing magnetic field.",
+                "b": "The production of an electric current in a conductor due to a changing electric field.",
+                "c": "The production of a magnetic field in a conductor due to a changing electric field.",
+                "d": "The production of an electric field in a conductor due to a changing magnetic field."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A light source emits light with a wavelength of 400 nm. What is the frequency of this light?",
+            "options": {
+                "a": "3.0 × 10¹⁴ Hz",
+                "b": "5.0 × 10¹⁴ Hz",
+                "c": "7.5 × 10¹⁴ Hz",
+                "d": "1.0 × 10¹⁵ Hz"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the concept of Hooke's Law?",
+            "options": {
+                "a": "The force exerted by a spring is directly proportional to its displacement from the equilibrium position.",
+                "b": "The force exerted by a spring is inversely proportional to its displacement from the equilibrium position.",
+                "c": "The force exerted by a spring is directly proportional to the square of its displacement from the equilibrium position.",
+                "d": "The force exerted by a spring is inversely proportional to the square of its displacement from the equilibrium position."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A 5 kg object is moving at a speed of 10 m/s. What is its momentum?",
+            "options": {
+                "a": "5 kg·m/s",
+                "b": "10 kg·m/s",
+                "c": "50 kg·m/s",
+                "d": "100 kg·m/s"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the concept of diffraction?",
+            "options": {
+                "a": "The bending of waves around obstacles or through openings.",
+                "b": "The reflection of waves from a surface.",
+                "c": "The interference of waves from two sources.",
+                "d": "The refraction of waves as they pass from one medium to another."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A transformer has a primary coil with 100 turns and a secondary coil with 50 turns. If the primary voltage is 240 V, what is the secondary voltage?",
+            "options": {
+                "a": "60 V",
+                "b": "120 V",
+                "c": "240 V",
+                "d": "480 V"
+            },
+            "answer": "b"
+        }
+    ],
+    "Chemistry": [
+        {
+            "question": "Which of the following statements is true regarding the stoichiometry of a balanced chemical reaction?",
+            "options": {
+                "a": "The coefficients in a balanced equation indicate the relative masses of reactants and products.",
+                "b": "The coefficients in a balanced equation indicate the relative volumes of reactants and products.",
+                "c": "The coefficients in a balanced equation indicate the relative numbers of moles of reactants and products.",
+                "d": "The coefficients in a balanced equation indicate the relative densities of reactants and products."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "In which of the following reactions is the oxidation state of the element unchanged?",
+            "options": {
+                "a": "Fe²⁺ → Fe³⁺",
+                "b": "H₂O₂ → H₂O",
+                "c": "Zn → Zn²⁺",
+                "d": "Cl₂ → 2Cl⁻"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the Heisenberg Uncertainty Principle?",
+            "options": {
+                "a": "It is impossible to know the exact position and momentum of a particle simultaneously.",
+                "b": "It is impossible to know the exact energy and position of a particle simultaneously.",
+                "c": "It is impossible to know the exact charge and mass of a particle simultaneously.",
+                "d": "It is impossible to know the exact spin and angular momentum of a particle simultaneously."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following quantum numbers describes the shape of an atomic orbital?",
+            "options": {
+                "a": "Principal quantum number (n)",
+                "b": "Azimuthal quantum number (l)",
+                "c": "Magnetic quantum number (m_l)",
+                "d": "Spin quantum number (m_s)"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the hybridization of the central atom in SF₄?",
+            "options": {
+                "a": "sp",
+                "b": "sp²",
+                "c": "sp³",
+                "d": "sp³d"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following is the correct expression for the equilibrium constant (K_c) for the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?",
+            "options": {
+                "a": "K_c = [NH₃]² / ([N₂][H₂]³)",
+                "b": "K_c = [N₂][H₂]³ / [NH₃]²",
+                "c": "K_c = [NH₃] / ([N₂][H₂])",
+                "d": "K_c = ([N₂][H₂]³) / [NH₃]"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following statements is true for a reaction with a positive ΔG?",
+            "options": {
+                "a": "The reaction is spontaneous.",
+                "b": "The reaction is non-spontaneous.",
+                "c": "The reaction is at equilibrium.",
+                "d": "The reaction is exothermic."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "In the context of acid-base titrations, what is the purpose of an indicator?",
+            "options": {
+                "a": "To react with the titrant",
+                "b": "To indicate the endpoint of the titration",
+                "c": "To react with the analyte",
+                "d": "To buffer the solution"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is the correct order of increasing boiling points for the compounds: CH₄, CH₃OH, and CH₃Cl?",
+            "options": {
+                "a": "CH₄ < CH₃Cl < CH₃OH",
+                "b": "CH₄ < CH₃OH < CH₃Cl",
+                "c": "CH₃Cl < CH₄ < CH₃OH",
+                "d": "CH₃OH < CH₄ < CH₃Cl"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes a buffer solution?",
+            "options": {
+                "a": "A solution that resists changes in pH when small amounts of acid or base are added.",
+                "b": "A solution that changes pH rapidly when small amounts of acid or base are added.",
+                "c": "A solution that has a pH of 7.",
+                "d": "A solution that is composed of a strong acid and a strong base."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following is the correct expression for the rate law of the reaction: 2A + B → C?",
+            "options": {
+                "a": "Rate = k[A][B]",
+                "b": "Rate = k[A]²[B]",
+                "c": "Rate = k[A]²",
+                "d": "Rate = k[B]"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is true for an exothermic reaction?",
+            "options": {
+                "a": "ΔH is positive.",
+                "b": "ΔH is negative.",
+                "c": "ΔG is positive.",
+                "d": "ΔS is negative."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the term 'activation energy'?",
+            "options": {
+                "a": "The energy required to start a reaction.",
+                "b": "The energy released during a reaction.",
+                "c": "The energy required to break bonds in the reactants.",
+                "d": "The energy required to form bonds in the products."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the process of osmosis?",
+            "options": {
+                "a": "The movement of solute particles from a region of higher concentration to a region of lower concentration.",
+                "b": "The movement of solvent particles from a region of higher concentration to a region of lower concentration.",
+                "c": "The movement of solute particles from a region of lower concentration to a region of higher concentration.",
+                "d": "The movement of solvent particles from a region of lower concentration to a region of higher concentration."
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following best describes the term 'colligative properties'?",
+            "options": {
+                "a": "Properties that depend on the identity of the solute particles.",
+                "b": "Properties that depend on the number of solute particles.",
+                "c": "Properties that depend on the mass of the solute particles.",
+                "d": "Properties that depend on the volume of the solute particles."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following statements is true about a galvanic cell?",
+            "options": {
+                "a": "The anode is the site of oxidation.",
+                "b": "The anode is the site of reduction.",
+                "c": "The cathode is the site of oxidation.",
+                "d": "Electrons flow from the cathode to the anode."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the role of a catalyst in a chemical reaction?",
+            "options": {
+                "a": "It increases the equilibrium constant of the reaction.",
+                "b": "It decreases the equilibrium constant of the reaction.",
+                "c": "It increases the rate of the reaction by lowering the activation energy.",
+                "d": "It decreases the rate of the reaction by increasing the activation energy."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the term 'molarity'?",
+            "options": {
+                "a": "The number of moles of solute per liter of solution.",
+                "b": "The number of moles of solute per kilogram of solvent.",
+                "c": "The number of grams of solute per liter of solution.",
+                "d": "The number of grams of solute per kilogram of solvent."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following statements is true for a reaction at equilibrium?",
+            "options": {
+                "a": "The concentrations of reactants and products are equal.",
+                "b": "The rates of the forward and reverse reactions are equal.",
+                "c": "The reaction has stopped.",
+                "d": "The equilibrium constant is zero."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the term 'enthalpy'?",
+            "options": {
+                "a": "The total energy of a system.",
+                "b": "The heat content of a system at constant pressure.",
+                "c": "The measure of the disorder of a system.",
+                "d": "The measure of the capacity to do work."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is the best representation of the Lewis structure for the sulfate ion (SO₄²⁻)?",
+            "options": {
+                "a": "Each oxygen has a single bond with sulfur.",
+                "b": "Each oxygen has a double bond with sulfur.",
+                "c": "Two oxygens have double bonds and two oxygens have single bonds with sulfur.",
+                "d": "One oxygen has a double bond and three oxygens have single bonds with sulfur."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the term 'lattice energy'?",
+            "options": {
+                "a": "The energy required to break a mole of an ionic compound into its gaseous ions.",
+                "b": "The energy required to form a mole of an ionic compound from its gaseous ions.",
+                "c": "The energy released when a mole of an ionic compound is formed from its gaseous ions.",
+                "d": "The energy released when a mole of an ionic compound is broken into its gaseous ions."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the principle of Le Chatelier's principle?",
+            "options": {
+                "a": "A system at equilibrium will remain at equilibrium unless acted upon by an external force.",
+                "b": "A system at equilibrium will shift to oppose any change in the conditions imposed upon it.",
+                "c": "A system at equilibrium will shift to favor the formation of products.",
+                "d": "A system at equilibrium will shift to favor the formation of reactants."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following statements is true regarding the ionization energy of elements?",
+            "options": {
+                "a": "Ionization energy increases down a group in the periodic table.",
+                "b": "Ionization energy decreases across a period in the periodic table.",
+                "c": "Ionization energy decreases down a group in the periodic table.",
+                "d": "Ionization energy is the energy released when an atom gains an electron."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes a polar covalent bond?",
+            "options": {
+                "a": "A bond in which electrons are shared equally between two atoms.",
+                "b": "A bond in which electrons are shared unequally between two atoms.",
+                "c": "A bond in which electrons are transferred from one atom to another.",
+                "d": "A bond in which electrons are delocalized among several atoms."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is true for a spontaneous process at constant temperature and pressure?",
+            "options": {
+                "a": "ΔG is positive.",
+                "b": "ΔG is negative.",
+                "c": "ΔH is positive.",
+                "d": "ΔS is negative."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of entropy?",
+            "options": {
+                "a": "The measure of the energy of a system.",
+                "b": "The measure of the disorder of a system.",
+                "c": "The measure of the pressure of a system.",
+                "d": "The measure of the volume of a system."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of formal charge?",
+            "options": {
+                "a": "The charge an atom would have if all bonds were ionic.",
+                "b": "The charge an atom would have if all bonds were covalent.",
+                "c": "The charge an atom would have if all lone pairs were shared.",
+                "d": "The charge an atom would have if all bonding electrons were shared equally."
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following best describes the concept of a limiting reagent?",
+            "options": {
+                "a": "The reactant that is completely consumed in a reaction, limiting the amount of product formed.",
+                "b": "The reactant that is not completely consumed in a reaction, limiting the amount of product formed.",
+                "c": "The reactant that is in excess in a reaction, limiting the amount of product formed.",
+                "d": "The reactant that is partially consumed in a reaction, limiting the amount of product formed."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the concept of resonance structures?",
+            "options": {
+                "a": "Structures that differ in the arrangement of atoms.",
+                "b": "Structures that differ in the arrangement of electrons.",
+                "c": "Structures that differ in the number of electrons.",
+                "d": "Structures that differ in the number of protons."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the term 'stoichiometry'?",
+            "options": {
+                "a": "The study of the speed of chemical reactions.",
+                "b": "The study of the heat involved in chemical reactions.",
+                "c": "The study of the composition of chemical substances.",
+                "d": "The study of the quantitative relationships between the amounts of reactants and products in chemical reactions."
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following best describes the term 'hydration energy'?",
+            "options": {
+                "a": "The energy released when an ionic compound dissolves in water.",
+                "b": "The energy required to break an ionic compound into its ions.",
+                "c": "The energy required to remove water from a hydrated compound.",
+                "d": "The energy released when a hydrated compound forms."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'solubility product' (K_sp)?",
+            "options": {
+                "a": "The product of the concentrations of the ions in a saturated solution, each raised to the power of its coefficient in the balanced equation.",
+                "b": "The sum of the concentrations of the ions in a saturated solution.",
+                "c": "The difference between the concentrations of the ions in a saturated solution.",
+                "d": "The ratio of the concentrations of the ions in a saturated solution."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the process of chromatography?",
+            "options": {
+                "a": "A technique used to separate mixtures based on differences in the boiling points of the components.",
+                "b": "A technique used to separate mixtures based on differences in the solubility of the components.",
+                "c": "A technique used to separate mixtures based on differences in the density of the components.",
+                "d": "A technique used to separate mixtures based on differences in the affinity of the components for a stationary and a mobile phase."
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which of the following best describes the term 'electrolyte'?",
+            "options": {
+                "a": "A substance that conducts electricity when dissolved in water.",
+                "b": "A substance that does not conduct electricity when dissolved in water.",
+                "c": "A substance that conducts electricity in the solid state.",
+                "d": "A substance that does not conduct electricity in the solid state."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the concept of 'molecular orbital theory'?",
+            "options": {
+                "a": "A theory that describes the bonding in molecules by assuming that atomic orbitals overlap to form molecular orbitals that are delocalized over the entire molecule.",
+                "b": "A theory that describes the bonding in molecules by assuming that atomic orbitals overlap to form hybrid orbitals that are localized on individual atoms.",
+                "c": "A theory that describes the bonding in molecules by assuming that atomic orbitals do not overlap.",
+                "d": "A theory that describes the bonding in molecules by assuming that atomic orbitals do not exist."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'chelation'?",
+            "options": {
+                "a": "The formation of a complex ion by the coordination of a central metal ion with multiple ligands.",
+                "b": "The formation of a complex ion by the coordination of a central metal ion with a single ligand.",
+                "c": "The formation of a precipitate by the reaction of a metal ion with a ligand.",
+                "d": "The formation of a solution by the reaction of a metal ion with a ligand."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'specific heat capacity'?",
+            "options": {
+                "a": "The amount of heat required to raise the temperature of 1 kg of a substance by 1°C.",
+                "b": "The amount of heat required to raise the temperature of 1 g of a substance by 1°C.",
+                "c": "The amount of heat required to raise the temperature of 1 kg of a substance by 1 K.",
+                "d": "The amount of heat required to raise the temperature of 1 g of a substance by 1 K."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'colligative properties'?",
+            "options": {
+                "a": "Properties that depend on the identity of the solute particles.",
+                "b": "Properties that depend on the number of solute particles.",
+                "c": "Properties that depend on the mass of the solute particles.",
+                "d": "Properties that depend on the volume of the solute particles."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the process of nuclear fission?",
+            "options": {
+                "a": "The splitting of a heavy nucleus into two lighter nuclei with the release of energy.",
+                "b": "The combining of two light nuclei into a heavier nucleus with the release of energy.",
+                "c": "The splitting of a light nucleus into two heavier nuclei with the release of energy.",
+                "d": "The combining of two heavy nuclei into a lighter nucleus with the release of energy."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the concept of 'quantum numbers'?",
+            "options": {
+                "a": "Numbers that describe the energy levels of electrons in an atom.",
+                "b": "Numbers that describe the masses of protons and neutrons in an atom.",
+                "c": "Numbers that describe the volumes of atoms and molecules.",
+                "d": "Numbers that describe the charges of ions and molecules."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'enthalpy of formation'?",
+            "options": {
+                "a": "The change in enthalpy when one mole of a substance is formed from its elements in their standard states.",
+                "b": "The change in enthalpy when one mole of a substance is formed from its elements in their gaseous states.",
+                "c": "The change in enthalpy when one mole of a substance is formed from its ions in their aqueous states.",
+                "d": "The change in enthalpy when one mole of a substance is formed from its ions in their solid states."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'Gibbs free energy'?",
+            "options": {
+                "a": "The maximum amount of work that can be done by a system at constant temperature and pressure.",
+                "b": "The maximum amount of heat that can be transferred by a system at constant temperature and pressure.",
+                "c": "The maximum amount of energy that can be transferred by a system at constant temperature and pressure.",
+                "d": "The maximum amount of volume that can be changed by a system at constant temperature and pressure."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'lattice energy'?",
+            "options": {
+                "a": "The energy required to break a mole of an ionic compound into its gaseous ions.",
+                "b": "The energy released when a mole of an ionic compound is formed from its gaseous ions.",
+                "c": "The energy required to remove an electron from an atom in the gas phase.",
+                "d": "The energy released when an electron is added to an atom in the gas phase."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of 'oxidation'?",
+            "options": {
+                "a": "The gain of electrons by an atom or ion.",
+                "b": "The loss of electrons by an atom or ion.",
+                "c": "The gain of protons by an atom or ion.",
+                "d": "The loss of protons by an atom or ion."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best describes the concept of 'reduction'?",
+            "options": {
+                "a": "The gain of electrons by an atom or ion.",
+                "b": "The loss of electrons by an atom or ion.",
+                "c": "The gain of protons by an atom or ion.",
+                "d": "The loss of protons by an atom or ion."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the process of 'electrolysis'?",
+            "options": {
+                "a": "The use of an electric current to drive a non-spontaneous chemical reaction.",
+                "b": "The use of an electric current to drive a spontaneous chemical reaction.",
+                "c": "The use of heat to drive a non-spontaneous chemical reaction.",
+                "d": "The use of light to drive a non-spontaneous chemical reaction."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'amphoteric'?",
+            "options": {
+                "a": "A substance that can act as both an acid and a base.",
+                "b": "A substance that can act as an acid but not as a base.",
+                "c": "A substance that can act as a base but not as an acid.",
+                "d": "A substance that can neither act as an acid nor as a base."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following best describes the term 'partial pressure'?",
+            "options": {
+                "a": "The pressure exerted by a single gas in a mixture of gases.",
+                "b": "The total pressure exerted by a mixture of gases.",
+                "c": "The pressure exerted by a single liquid in a mixture of liquids.",
+                "d": "The total pressure exerted by a mixture of liquids."
+            },
+            "answer": "a"
+        }
+    ],
+    "English": [
+        {
+            "question": "Which of the following words is a synonym for 'ambivalent'?",
+            "options": {
+                "a": "Certain",
+                "b": "Indifferent",
+                "c": "Undecided",
+                "d": "Determined"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following sentences is grammatically correct?",
+            "options": {
+                "a": "Each of the students have completed their assignments.",
+                "b": "Each of the students has completed their assignments.",
+                "c": "Each of the students have completed his or her assignments.",
+                "d": "Each of the students has completed his or her assignments."
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Identify the correct meaning of the idiom 'burn the midnight oil'.",
+            "options": {
+                "a": "To work late into the night",
+                "b": "To waste time",
+                "c": "To relax after a long day",
+                "d": "To celebrate a special occasion"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following words is misspelled?",
+            "options": {
+                "a": "Embarrassment",
+                "b": "Accommodate",
+                "c": "Mischievous",
+                "d": "Definately"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Which sentence uses the correct form of the word 'affect' or 'effect'?",
+            "options": {
+                "a": "The affect of the new law was noticeable immediately.",
+                "b": "The new law effected positive changes.",
+                "c": "The new policy had a positive affect.",
+                "d": "The new policy had a positive effect."
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Choose the sentence with the correct punctuation.",
+            "options": {
+                "a": "My favorite foods are: pizza, pasta, and ice cream.",
+                "b": "My favorite foods are pizza, pasta, and ice cream.",
+                "c": "My favorite foods are; pizza, pasta, and ice cream.",
+                "d": "My favorite foods are - pizza, pasta, and ice cream."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following best defines the word 'gregarious'?",
+            "options": {
+                "a": "Shy and reserved",
+                "b": "Lively and outgoing",
+                "c": "Cautious and careful",
+                "d": "Thoughtful and reflective"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the antonym of 'prolific'?",
+            "options": {
+                "a": "Fruitful",
+                "b": "Abundant",
+                "c": "Productive",
+                "d": "Unproductive"
+            },
+            "answer": "d"
+        }
+    ],
+    "Logical Reasoning": [
+        {
+            "question": "A box contains 20 balls: 6 red, 5 blue, 7 green, and 2 yellow. If two balls are drawn at random without replacement, what is the probability that both balls are red?",
+            "options": {
+                "a": "1/19",
+                "b": "3/38",
+                "c": "5/57",
+                "d": "1/38"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+            "options": {
+                "a": "5 minutes",
+                "b": "10 minutes",
+                "c": "20 minutes",
+                "d": "100 minutes"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A man buys a horse for $60, sells it for $70, buys it back for $80, and sells it again for $90. What is his total profit?",
+            "options": {
+                "a": "$10",
+                "b": "$20",
+                "c": "$30",
+                "d": "$40"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "A clock shows the time as 3:15. What is the angle between the hour and the minute hands?",
+            "options": {
+                "a": "0 degrees",
+                "b": "7.5 degrees",
+                "c": "15 degrees",
+                "d": "37.5 degrees"
+            },
+            "answer": "d"
+        }
+    ]
+}
